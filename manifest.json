@@ -1,25 +1,15 @@
 {
-  "generated_at_iso": "2026-04-27T11:46:54Z",
+  "generated_at_iso": "2026-04-27T21:37:51Z",
   "manifest_schema": 1,
   "packs": [
-    {
-      "data_version": 1,
-      "min_app_version": "1.3.0",
-      "name": "printers_db",
-      "release_notes": "v1 of printers_db",
-      "schema_version": 1,
-      "sha256": "ead66b1fea9ac920fc72f232f47628c19c4acb098ef7f53965afcf06aa3c1e7e",
-      "size_bytes": 53578,
-      "url": "https://pbdproducts.github.io/PrintWise3D-DBPacks/packs/printers_db-v1.json"
-    },
     {
       "data_version": 2,
       "min_app_version": "1.3.0",
       "name": "plates_db",
       "release_notes": "v2 of plates_db",
       "schema_version": 1,
-      "sha256": "89ccd2a6d86523b3bfca961f041e77d1ba6eeef371659a80ad89c75e2e1ee8cc",
-      "size_bytes": 11180,
+      "sha256": "50e1217c8f6e2aa97aa5bc0404d8c2bfbe2d3239296d6ce0006f9b6dc755aa8a",
+      "size_bytes": 14025,
       "url": "https://pbdproducts.github.io/PrintWise3D-DBPacks/packs/plates_db-v2.json"
     },
     {
@@ -28,10 +18,20 @@
       "name": "filaments_db",
       "release_notes": "v2 of filaments_db",
       "schema_version": 1,
-      "sha256": "a7b4fb0cb7512a22c6cf0651a891fd0dcac4775083293593e37c3c2a41c974d5",
-      "size_bytes": 95860,
+      "sha256": "540919d40bdd279388d000161b320da6fc212f531e5cf11f758f6e8bb08cd037",
+      "size_bytes": 144218,
       "url": "https://pbdproducts.github.io/PrintWise3D-DBPacks/packs/filaments_db-v2.json"
+    },
+    {
+      "data_version": 1,
+      "min_app_version": "1.3.0",
+      "name": "printers_db",
+      "release_notes": "v1 of printers_db",
+      "schema_version": 1,
+      "sha256": "44cd0e66a0e4110ea1f19ee17b8014d1af4e0a68516a9e2dc891524f8e192622",
+      "size_bytes": 74449,
+      "url": "https://pbdproducts.github.io/PrintWise3D-DBPacks/packs/printers_db-v1.json"
     }
   ],
-  "signature_b64": "4AzYTEYRKzKHxj0m6ue/bisw0XNoPGkfB2VBtOeddQwmVMzNpSZiWCGFeLEufjHyUYJEGDx4wH7G0Fv+NdxmBg=="
+  "signature_b64": "NyEw6tns2ZhOW0CTZcnxj6d1D9I5QrRTxzgU0YmxxzwGhptxLHXSkWknJBGA5N3k8fkyqCGgsDajuox05UdtBQ=="
 }
