@@ -1,0 +1,4931 @@
+{
+  "data_version": 1,
+  "entries": {
+    "3D Solutech PLA": {
+      "base_material": "PLA",
+      "bed_c": [
+        45,
+        60
+      ],
+      "brand": "3D Solutech",
+      "cost_per_kg_usd": 22.0,
+      "dry_hours_at_c": null,
+      "fan_body_pct": 100,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        190,
+        220
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 12.0,
+      "notes": "",
+      "product": "PLA",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "3D4Makers PEEK": {
+      "base_material": "PEEK",
+      "bed_c": [
+        120,
+        150
+      ],
+      "brand": "3D4Makers",
+      "cost_per_kg_usd": 500.0,
+      "dry_hours_at_c": [
+        4,
+        120
+      ],
+      "fan_body_pct": 0,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        370,
+        450
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 6.0,
+      "notes": "Dutch high-perf specialist; needs heated chamber and all-metal hotend.",
+      "product": "PEEK",
+      "retract_bowden_mm": 2.0,
+      "retract_direct_mm": 0.5
+    },
+    "3D4Makers PEI ULTEM 1010": {
+      "base_material": "PEI",
+      "bed_c": [
+        140,
+        160
+      ],
+      "brand": "3D4Makers",
+      "cost_per_kg_usd": 450.0,
+      "dry_hours_at_c": [
+        4,
+        120
+      ],
+      "fan_body_pct": 0,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        360,
+        400
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 7.0,
+      "notes": "ULTEM 1010 grade; Tg 217C; continuous use to 170C; aerospace/medical.",
+      "product": "PEI ULTEM 1010",
+      "retract_bowden_mm": 3.5,
+      "retract_direct_mm": 0.8
+    },
+    "3D4Makers PEI ULTEM 9085": {
+      "base_material": "PEI",
+      "bed_c": [
+        140,
+        160
+      ],
+      "brand": "3D4Makers",
+      "cost_per_kg_usd": 400.0,
+      "dry_hours_at_c": [
+        4,
+        120
+      ],
+      "fan_body_pct": 0,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        360,
+        400
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 7.0,
+      "notes": "ULTEM 9085 grade; Tg 186C; aerospace cabin-rated.",
+      "product": "PEI ULTEM 9085",
+      "retract_bowden_mm": 3.5,
+      "retract_direct_mm": 0.8
+    },
+    "3D4Makers PEKK-A": {
+      "base_material": "PEKK",
+      "bed_c": [
+        120,
+        160
+      ],
+      "brand": "3D4Makers",
+      "cost_per_kg_usd": 500.0,
+      "dry_hours_at_c": [
+        4,
+        120
+      ],
+      "fan_body_pct": 0,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        350,
+        400
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 6.0,
+      "notes": "Amorphous PEKK; chamber 70-150C recommended; lower crystallinity drag than PEEK.",
+      "product": "PEKK-A",
+      "retract_bowden_mm": 2.0,
+      "retract_direct_mm": 0.5
+    },
+    "3DFuel Pro PETG": {
+      "base_material": "PETG",
+      "bed_c": [
+        70,
+        85
+      ],
+      "brand": "3D-Fuel",
+      "cost_per_kg_usd": 30.0,
+      "dry_hours_at_c": [
+        8,
+        65
+      ],
+      "fan_body_pct": 40,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        245,
+        265
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 11.0,
+      "notes": "100% virgin PETG resin; runs hot vs typical PETG; near-zero warping.",
+      "product": "Pro PETG",
+      "retract_bowden_mm": 5.0,
+      "retract_direct_mm": 1.5
+    },
+    "3DFuel Workday PLA": {
+      "base_material": "PLA",
+      "bed_c": [
+        50,
+        60
+      ],
+      "brand": "3D-Fuel",
+      "cost_per_kg_usd": 27.0,
+      "dry_hours_at_c": null,
+      "fan_body_pct": 100,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        200,
+        225
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 12.0,
+      "notes": "US-made (North Dakota); high-heat-grade PLA; faster crystallization for better thermal resistance.",
+      "product": "Workday PLA",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "3DXTech CarbonX PEKK-CF": {
+      "base_material": "PEKK",
+      "bed_c": [
+        120,
+        150
+      ],
+      "brand": "3DXTech",
+      "cost_per_kg_usd": 550.0,
+      "dry_hours_at_c": [
+        4,
+        120
+      ],
+      "fan_body_pct": 0,
+      "flow_multiplier": 0.98,
+      "food_safe_claim": false,
+      "hotend_c": [
+        360,
+        400
+      ],
+      "is_composite": true,
+      "max_volumetric_mm3s": 6.0,
+      "notes": "PEKK with carbon fibre; slightly easier than pure PEEK.",
+      "product": "CarbonX PEKK-CF",
+      "retract_bowden_mm": 2.0,
+      "retract_direct_mm": 0.5
+    },
+    "3DXTech PEEK": {
+      "base_material": "PEEK",
+      "bed_c": [
+        130,
+        160
+      ],
+      "brand": "3DXTech",
+      "cost_per_kg_usd": 650.0,
+      "dry_hours_at_c": [
+        4,
+        120
+      ],
+      "fan_body_pct": 0,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        380,
+        410
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 6.0,
+      "notes": "High-temp aerospace PEEK; needs 500 \u00b0C hotend + 90 \u00b0C chamber.",
+      "product": "ThermaX PEEK",
+      "retract_bowden_mm": 2.0,
+      "retract_direct_mm": 0.5
+    },
+    "Amazon Basics PETG": {
+      "base_material": "PETG",
+      "bed_c": [
+        75,
+        85
+      ],
+      "brand": "Amazon Basics",
+      "cost_per_kg_usd": 20.0,
+      "dry_hours_at_c": [
+        8,
+        65
+      ],
+      "fan_body_pct": 40,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        230,
+        245
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 11.0,
+      "notes": "Amazon house brand; no official TDS published; PETG family defaults.",
+      "product": "PETG",
+      "retract_bowden_mm": 5.0,
+      "retract_direct_mm": 1.5
+    },
+    "Amazon Basics PLA": {
+      "base_material": "PLA",
+      "bed_c": [
+        50,
+        60
+      ],
+      "brand": "Amazon Basics",
+      "cost_per_kg_usd": 18.0,
+      "dry_hours_at_c": null,
+      "fan_body_pct": 100,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        195,
+        220
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 12.0,
+      "notes": "Amazon house brand; no official TDS published; PLA family defaults; broad colour range.",
+      "product": "PLA",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "Amazon Basics TPU 95A": {
+      "base_material": "TPU",
+      "bed_c": [
+        45,
+        60
+      ],
+      "brand": "Amazon Basics",
+      "cost_per_kg_usd": 25.0,
+      "dry_hours_at_c": [
+        8,
+        60
+      ],
+      "fan_body_pct": 60,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        220,
+        235
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 5.0,
+      "notes": "Amazon house brand TPU 95A; no official TDS; flexible family defaults.",
+      "product": "TPU 95A",
+      "retract_bowden_mm": 2.0,
+      "retract_direct_mm": 0.4
+    },
+    "Ambrosia ABS Matte": {
+      "base_material": "ABS",
+      "bed_c": [
+        95,
+        110
+      ],
+      "brand": "Ambrosia",
+      "cost_per_kg_usd": 40.0,
+      "dry_hours_at_c": [
+        4,
+        65
+      ],
+      "fan_body_pct": 0,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        240,
+        260
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 10.0,
+      "notes": "Matte ABS; enclosure required; AMS-friendly cardboard spool.",
+      "product": "ABS Matte",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.6
+    },
+    "Ambrosia ASA-CF": {
+      "base_material": "ASA",
+      "bed_c": [
+        100,
+        110
+      ],
+      "brand": "Ambrosia",
+      "cost_per_kg_usd": 55.0,
+      "dry_hours_at_c": [
+        6,
+        80
+      ],
+      "fan_body_pct": 0,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        230,
+        270
+      ],
+      "is_composite": true,
+      "max_volumetric_mm3s": 8.0,
+      "notes": "Carbon-fibre ASA; UV/weather resistant; hardened steel nozzle required; enclosure required.",
+      "product": "ASA-CF Filament of the Gods",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.6
+    },
+    "Ambrosia PETG": {
+      "base_material": "PETG",
+      "bed_c": [
+        70,
+        85
+      ],
+      "brand": "Ambrosia",
+      "cost_per_kg_usd": 35.0,
+      "dry_hours_at_c": [
+        8,
+        65
+      ],
+      "fan_body_pct": 40,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        230,
+        250
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 11.0,
+      "notes": "US-made; high impact strength; AMS-friendly cardboard spool.",
+      "product": "PETG Filament of the Gods",
+      "retract_bowden_mm": 5.0,
+      "retract_direct_mm": 1.5
+    },
+    "Ambrosia PLA": {
+      "base_material": "PLA",
+      "bed_c": [
+        50,
+        60
+      ],
+      "brand": "Ambrosia",
+      "cost_per_kg_usd": 32.0,
+      "dry_hours_at_c": null,
+      "fan_body_pct": 100,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        200,
+        220
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 14.0,
+      "notes": "US-made; +/-0.03 mm tolerance; AMS-friendly cardboard spool.",
+      "product": "PLA Filament of the Gods",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "Amolen PLA Marble": {
+      "base_material": "PLA",
+      "bed_c": [
+        30,
+        65
+      ],
+      "brand": "Amolen",
+      "cost_per_kg_usd": 25.0,
+      "dry_hours_at_c": [
+        7,
+        55
+      ],
+      "fan_body_pct": 100,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        210,
+        230
+      ],
+      "is_composite": true,
+      "max_volumetric_mm3s": 12.0,
+      "notes": "Stone-particle-loaded PLA; matte marble appearance; hardened nozzle recommended.",
+      "product": "PLA Marble",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "Amolen PLA Wood": {
+      "base_material": "PLA",
+      "bed_c": [
+        30,
+        65
+      ],
+      "brand": "Amolen",
+      "cost_per_kg_usd": 30.0,
+      "dry_hours_at_c": [
+        7,
+        55
+      ],
+      "fan_body_pct": 100,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        180,
+        210
+      ],
+      "is_composite": true,
+      "max_volumetric_mm3s": 10.0,
+      "notes": "20% real wood fibre; hardened nozzle recommended; sandable.",
+      "product": "PLA Wood",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "Amolen Silk PLA": {
+      "base_material": "PLA",
+      "bed_c": [
+        55,
+        65
+      ],
+      "brand": "Amolen",
+      "cost_per_kg_usd": 28.0,
+      "dry_hours_at_c": null,
+      "fan_body_pct": 100,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        205,
+        225
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 12.0,
+      "notes": "Silk finish; prints hotter and slower for sheen.",
+      "product": "Silk PLA",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "Anycubic PETG": {
+      "base_material": "PETG",
+      "bed_c": [
+        50,
+        80
+      ],
+      "brand": "Anycubic",
+      "cost_per_kg_usd": 22.0,
+      "dry_hours_at_c": [
+        8,
+        65
+      ],
+      "fan_body_pct": 40,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        220,
+        250
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 11.0,
+      "notes": "Anycubic's house-brand PETG; vibrant translucent colours.",
+      "product": "PETG",
+      "retract_bowden_mm": 5.0,
+      "retract_direct_mm": 1.5
+    },
+    "Anycubic PLA": {
+      "base_material": "PLA",
+      "bed_c": [
+        50,
+        60
+      ],
+      "brand": "Anycubic",
+      "cost_per_kg_usd": 20.0,
+      "dry_hours_at_c": null,
+      "fan_body_pct": 100,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        190,
+        220
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 15.0,
+      "notes": "Anycubic's house-brand PLA; bundled with their printers.",
+      "product": "PLA",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "Anycubic PLA+": {
+      "base_material": "PLA",
+      "bed_c": [
+        55,
+        65
+      ],
+      "brand": "Anycubic",
+      "cost_per_kg_usd": 22.0,
+      "dry_hours_at_c": null,
+      "fan_body_pct": 100,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        190,
+        230
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 15.0,
+      "notes": "Toughness-modified PLA; tolerates higher temps than plain PLA.",
+      "product": "PLA+",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "Atomic Filament PETG PRO": {
+      "base_material": "PETG",
+      "bed_c": [
+        70,
+        80
+      ],
+      "brand": "Atomic Filament",
+      "cost_per_kg_usd": 32.0,
+      "dry_hours_at_c": [
+        8,
+        60
+      ],
+      "fan_body_pct": 40,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        230,
+        250
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 12.0,
+      "notes": "US-made (NJ); virgin-resin PETG; AMS-compatible spool.",
+      "product": "PETG PRO",
+      "retract_bowden_mm": 5.0,
+      "retract_direct_mm": 1.5
+    },
+    "Atomic Filament PLA": {
+      "base_material": "PLA",
+      "bed_c": [
+        45,
+        60
+      ],
+      "brand": "Atomic Filament",
+      "cost_per_kg_usd": 33.0,
+      "dry_hours_at_c": null,
+      "fan_body_pct": 100,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        205,
+        220
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 13.0,
+      "notes": "Small US roaster; premium custom colors.",
+      "product": "PLA",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "AzureFilm ASA": {
+      "base_material": "ASA",
+      "bed_c": [
+        90,
+        110
+      ],
+      "brand": "AzureFilm",
+      "cost_per_kg_usd": 32.0,
+      "dry_hours_at_c": [
+        6,
+        60
+      ],
+      "fan_body_pct": 0,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        240,
+        260
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 10.0,
+      "notes": "UV/weather-resistant; enclosure required; outdoor-rated.",
+      "product": "ASA",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.6
+    },
+    "AzureFilm PETG": {
+      "base_material": "PETG",
+      "bed_c": [
+        70,
+        80
+      ],
+      "brand": "AzureFilm",
+      "cost_per_kg_usd": 25.0,
+      "dry_hours_at_c": [
+        8,
+        65
+      ],
+      "fan_body_pct": 40,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        220,
+        240
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 11.0,
+      "notes": "Slovenian-made; tighter dia tolerance than budget PETG.",
+      "product": "PETG",
+      "retract_bowden_mm": 5.0,
+      "retract_direct_mm": 1.5
+    },
+    "AzureFilm PLA": {
+      "base_material": "PLA",
+      "bed_c": [
+        50,
+        60
+      ],
+      "brand": "AzureFilm",
+      "cost_per_kg_usd": 22.0,
+      "dry_hours_at_c": null,
+      "fan_body_pct": 100,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        180,
+        220
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 14.0,
+      "notes": "Slovenian-made; popular in EU market.",
+      "product": "PLA",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "BCN3D PETG": {
+      "base_material": "PETG",
+      "bed_c": [
+        70,
+        85
+      ],
+      "brand": "BCN3D",
+      "cost_per_kg_usd": 38.0,
+      "dry_hours_at_c": [
+        8,
+        65
+      ],
+      "fan_body_pct": 40,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        230,
+        250
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 11.0,
+      "notes": "Spanish premium PETG; Magigoo recommended for bed adhesion.",
+      "product": "PETG",
+      "retract_bowden_mm": 5.0,
+      "retract_direct_mm": 1.5
+    },
+    "BCN3D PLA": {
+      "base_material": "PLA",
+      "bed_c": [
+        60,
+        70
+      ],
+      "brand": "BCN3D",
+      "cost_per_kg_usd": 35.0,
+      "dry_hours_at_c": null,
+      "fan_body_pct": 100,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        195,
+        220
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 12.0,
+      "notes": "Spanish premium; tuned for Sigma/Sigmax/Stratos; full-metal hotend friendly.",
+      "product": "PLA",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "BCN3D TPU": {
+      "base_material": "TPU",
+      "bed_c": [
+        45,
+        60
+      ],
+      "brand": "BCN3D",
+      "cost_per_kg_usd": 55.0,
+      "dry_hours_at_c": [
+        7,
+        65
+      ],
+      "fan_body_pct": 60,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        220,
+        235
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 4.0,
+      "notes": "Spanish flexible filament; 25 mm/s recommended; 0.8-1.0 mm hotend preferred.",
+      "product": "TPU",
+      "retract_bowden_mm": 2.0,
+      "retract_direct_mm": 0.4
+    },
+    "Bambu ABS": {
+      "base_material": "ABS",
+      "bed_c": [
+        90,
+        100
+      ],
+      "brand": "Bambu Lab",
+      "cost_per_kg_usd": 26.0,
+      "dry_hours_at_c": [
+        6,
+        80
+      ],
+      "fan_body_pct": 0,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        240,
+        270
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 14.0,
+      "notes": "",
+      "product": "ABS",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.6
+    },
+    "Bambu ASA": {
+      "base_material": "ASA",
+      "bed_c": [
+        90,
+        100
+      ],
+      "brand": "Bambu Lab",
+      "cost_per_kg_usd": 32.0,
+      "dry_hours_at_c": [
+        8,
+        80
+      ],
+      "fan_body_pct": 0,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        240,
+        270
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 14.0,
+      "notes": "UV-stable; higher volumetric than generic ASA.",
+      "product": "ASA",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.6
+    },
+    "Bambu PA-CF": {
+      "base_material": "PA",
+      "bed_c": [
+        90,
+        100
+      ],
+      "brand": "Bambu Lab",
+      "cost_per_kg_usd": 80.0,
+      "dry_hours_at_c": [
+        8,
+        80
+      ],
+      "fan_body_pct": 0,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        260,
+        290
+      ],
+      "is_composite": true,
+      "max_volumetric_mm3s": 10.0,
+      "notes": "",
+      "product": "PA-CF",
+      "retract_bowden_mm": 3.0,
+      "retract_direct_mm": 1.0
+    },
+    "Bambu PA-GF": {
+      "base_material": "PA",
+      "bed_c": [
+        90,
+        100
+      ],
+      "brand": "Bambu Lab",
+      "cost_per_kg_usd": 80.0,
+      "dry_hours_at_c": [
+        8,
+        80
+      ],
+      "fan_body_pct": 0,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        280,
+        300
+      ],
+      "is_composite": true,
+      "max_volumetric_mm3s": 10.0,
+      "notes": "Glass-fibre PA; engineering-grade; enclosed chamber + hardened nozzle required.",
+      "product": "PA-GF",
+      "retract_bowden_mm": 3.0,
+      "retract_direct_mm": 1.0
+    },
+    "Bambu PAHT-CF": {
+      "base_material": "PA",
+      "bed_c": [
+        90,
+        100
+      ],
+      "brand": "Bambu Lab",
+      "cost_per_kg_usd": 85.0,
+      "dry_hours_at_c": [
+        8,
+        80
+      ],
+      "fan_body_pct": 0,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        280,
+        300
+      ],
+      "is_composite": true,
+      "max_volumetric_mm3s": 12.0,
+      "notes": "High-temp CF PA; enclosed chamber & hardened nozzle required.",
+      "product": "PAHT-CF",
+      "retract_bowden_mm": 3.0,
+      "retract_direct_mm": 1.0
+    },
+    "Bambu PC": {
+      "base_material": "PC",
+      "bed_c": [
+        100,
+        110
+      ],
+      "brand": "Bambu Lab",
+      "cost_per_kg_usd": 50.0,
+      "dry_hours_at_c": [
+        8,
+        80
+      ],
+      "fan_body_pct": 0,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        260,
+        290
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 9.0,
+      "notes": "",
+      "product": "PC",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "Bambu PET-CF": {
+      "base_material": "PETG",
+      "bed_c": [
+        80,
+        100
+      ],
+      "brand": "Bambu Lab",
+      "cost_per_kg_usd": 90.0,
+      "dry_hours_at_c": [
+        10,
+        80
+      ],
+      "fan_body_pct": 0,
+      "flow_multiplier": 0.98,
+      "food_safe_claim": false,
+      "hotend_c": [
+        270,
+        300
+      ],
+      "is_composite": true,
+      "max_volumetric_mm3s": 12.0,
+      "notes": "Pure PET carbon fibre; high heat deflection; hardened nozzle.",
+      "product": "PET-CF",
+      "retract_bowden_mm": 5.0,
+      "retract_direct_mm": 1.5
+    },
+    "Bambu PETG HF": {
+      "base_material": "PETG",
+      "bed_c": [
+        70,
+        80
+      ],
+      "brand": "Bambu Lab",
+      "cost_per_kg_usd": 28.0,
+      "dry_hours_at_c": [
+        8,
+        65
+      ],
+      "fan_body_pct": 40,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        230,
+        260
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 22.0,
+      "notes": "High-flow PETG; up to 22 mm\u00b3/s.",
+      "product": "PETG HF",
+      "retract_bowden_mm": 5.0,
+      "retract_direct_mm": 1.5
+    },
+    "Bambu PETG Translucent": {
+      "base_material": "PETG",
+      "bed_c": [
+        70,
+        80
+      ],
+      "brand": "Bambu Lab",
+      "cost_per_kg_usd": 28.0,
+      "dry_hours_at_c": [
+        8,
+        65
+      ],
+      "fan_body_pct": 40,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        230,
+        250
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 11.0,
+      "notes": "Translucent PETG; tinted-glass aesthetic; AMS compatible.",
+      "product": "PETG Translucent",
+      "retract_bowden_mm": 5.0,
+      "retract_direct_mm": 1.5
+    },
+    "Bambu PETG-CF": {
+      "base_material": "PETG",
+      "bed_c": [
+        70,
+        80
+      ],
+      "brand": "Bambu Lab",
+      "cost_per_kg_usd": 50.0,
+      "dry_hours_at_c": [
+        8,
+        65
+      ],
+      "fan_body_pct": 30,
+      "flow_multiplier": 0.98,
+      "food_safe_claim": false,
+      "hotend_c": [
+        250,
+        270
+      ],
+      "is_composite": true,
+      "max_volumetric_mm3s": 14.0,
+      "notes": "Carbon-fibre PETG; hardened nozzle required.",
+      "product": "PETG-CF",
+      "retract_bowden_mm": 5.0,
+      "retract_direct_mm": 1.5
+    },
+    "Bambu PLA Aero": {
+      "base_material": "PLA",
+      "bed_c": [
+        45,
+        65
+      ],
+      "brand": "Bambu Lab",
+      "cost_per_kg_usd": 30.0,
+      "dry_hours_at_c": [
+        8,
+        55
+      ],
+      "fan_body_pct": 100,
+      "flow_multiplier": 0.5,
+      "food_safe_claim": false,
+      "hotend_c": [
+        220,
+        260
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 8.0,
+      "notes": "Foaming PLA for lightweight RC parts; flow ratio ~0.50 default; vary nozzle temp to control density; very hygroscopic.",
+      "product": "PLA Aero",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "Bambu PLA Basic": {
+      "base_material": "PLA",
+      "bed_c": [
+        35,
+        65
+      ],
+      "brand": "Bambu Lab",
+      "cost_per_kg_usd": 25.0,
+      "dry_hours_at_c": null,
+      "fan_body_pct": 100,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        190,
+        230
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 20.0,
+      "notes": "High-speed tuned; up to 20 mm\u00b3/s volumetric flow.",
+      "product": "PLA Basic",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "Bambu PLA Galaxy": {
+      "base_material": "PLA",
+      "bed_c": [
+        35,
+        65
+      ],
+      "brand": "Bambu Lab",
+      "cost_per_kg_usd": 30.0,
+      "dry_hours_at_c": null,
+      "fan_body_pct": 100,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        200,
+        230
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 15.0,
+      "notes": "Glitter-loaded PLA; sparkle effect; abrasive \u2014 hardened nozzle helps.",
+      "product": "PLA Galaxy",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "Bambu PLA Matte": {
+      "base_material": "PLA",
+      "bed_c": [
+        35,
+        65
+      ],
+      "brand": "Bambu Lab",
+      "cost_per_kg_usd": 25.0,
+      "dry_hours_at_c": null,
+      "fan_body_pct": 100,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        200,
+        230
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 15.0,
+      "notes": "",
+      "product": "PLA Matte",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "Bambu PLA Silk": {
+      "base_material": "PLA",
+      "bed_c": [
+        35,
+        65
+      ],
+      "brand": "Bambu Lab",
+      "cost_per_kg_usd": 30.0,
+      "dry_hours_at_c": null,
+      "fan_body_pct": 100,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        200,
+        230
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 15.0,
+      "notes": "Silk-finish PLA; metallic sheen; AMS compatible.",
+      "product": "PLA Silk",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "Bambu PLA-CF": {
+      "base_material": "PLA",
+      "bed_c": [
+        45,
+        65
+      ],
+      "brand": "Bambu Lab",
+      "cost_per_kg_usd": 40.0,
+      "dry_hours_at_c": [
+        8,
+        55
+      ],
+      "fan_body_pct": 100,
+      "flow_multiplier": 0.98,
+      "food_safe_claim": false,
+      "hotend_c": [
+        220,
+        240
+      ],
+      "is_composite": true,
+      "max_volumetric_mm3s": 14.0,
+      "notes": "",
+      "product": "PLA-CF",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "Bambu TPU 95A HF": {
+      "base_material": "TPU",
+      "bed_c": [
+        35,
+        60
+      ],
+      "brand": "Bambu Lab",
+      "cost_per_kg_usd": 50.0,
+      "dry_hours_at_c": [
+        4,
+        50
+      ],
+      "fan_body_pct": 60,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        220,
+        240
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 8.0,
+      "notes": "Higher flow than typical TPU (8 mm\u00b3/s).",
+      "product": "TPU 95A HF",
+      "retract_bowden_mm": 2.0,
+      "retract_direct_mm": 0.4
+    },
+    "Coex3D PETG": {
+      "base_material": "PETG",
+      "bed_c": [
+        75,
+        90
+      ],
+      "brand": "COEX 3D",
+      "cost_per_kg_usd": 26.0,
+      "dry_hours_at_c": [
+        8,
+        65
+      ],
+      "fan_body_pct": 40,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        230,
+        245
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 11.0,
+      "notes": "US-made; published parameter page; runs slightly cool vs imported PETG.",
+      "product": "PETG",
+      "retract_bowden_mm": 5.0,
+      "retract_direct_mm": 1.5
+    },
+    "Coex3D PLA": {
+      "base_material": "PLA",
+      "bed_c": [
+        50,
+        60
+      ],
+      "brand": "COEX 3D",
+      "cost_per_kg_usd": 24.0,
+      "dry_hours_at_c": null,
+      "fan_body_pct": 100,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        215,
+        235
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 12.0,
+      "notes": "US-made (Indiana); virgin resin; broad colour range.",
+      "product": "PLA",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "Coex3D PLA Silk": {
+      "base_material": "PLA",
+      "bed_c": [
+        50,
+        60
+      ],
+      "brand": "COEX 3D",
+      "cost_per_kg_usd": 32.0,
+      "dry_hours_at_c": null,
+      "fan_body_pct": 100,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        210,
+        230
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 10.0,
+      "notes": "US-made silk-finish PLA; metallic sheen.",
+      "product": "Gold PLA+Silk",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "ColorFabb PA-CF Low Warp": {
+      "base_material": "PA",
+      "bed_c": [
+        40,
+        100
+      ],
+      "brand": "ColorFabb",
+      "cost_per_kg_usd": 120.0,
+      "dry_hours_at_c": [
+        8,
+        80
+      ],
+      "fan_body_pct": 0,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        260,
+        280
+      ],
+      "is_composite": true,
+      "max_volumetric_mm3s": 8.0,
+      "notes": "Carbon-fibre PA with LEHVOSS LUVOCOM; continuous use 120C; hardened nozzle + all-metal hotend required; very low warp.",
+      "product": "PA-CF Low Warp",
+      "retract_bowden_mm": 3.0,
+      "retract_direct_mm": 1.0
+    },
+    "ColorFabb XT-CF20": {
+      "base_material": "PETG",
+      "bed_c": [
+        70,
+        80
+      ],
+      "brand": "ColorFabb",
+      "cost_per_kg_usd": 75.0,
+      "dry_hours_at_c": [
+        4,
+        70
+      ],
+      "fan_body_pct": 40,
+      "flow_multiplier": 0.98,
+      "food_safe_claim": false,
+      "hotend_c": [
+        240,
+        260
+      ],
+      "is_composite": true,
+      "max_volumetric_mm3s": 10.0,
+      "notes": "Carbon-fibre PETG copolyester; hardened nozzle required.",
+      "product": "XT-CF20",
+      "retract_bowden_mm": 5.0,
+      "retract_direct_mm": 1.5
+    },
+    "ColorFabb bronzeFill": {
+      "base_material": "PLA",
+      "bed_c": [
+        50,
+        60
+      ],
+      "brand": "ColorFabb",
+      "cost_per_kg_usd": 75.0,
+      "dry_hours_at_c": null,
+      "fan_body_pct": 100,
+      "flow_multiplier": 0.95,
+      "food_safe_claim": false,
+      "hotend_c": [
+        195,
+        220
+      ],
+      "is_composite": true,
+      "max_volumetric_mm3s": 10.0,
+      "notes": "80% bronze powder; brushable/polishable; hardened nozzle.",
+      "product": "bronzeFill",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "ColorFabb copperFill": {
+      "base_material": "PLA",
+      "bed_c": [
+        45,
+        60
+      ],
+      "brand": "ColorFabb",
+      "cost_per_kg_usd": 70.0,
+      "dry_hours_at_c": [
+        4,
+        50
+      ],
+      "fan_body_pct": 80,
+      "flow_multiplier": 1.1,
+      "food_safe_claim": false,
+      "hotend_c": [
+        195,
+        220
+      ],
+      "is_composite": true,
+      "max_volumetric_mm3s": 8.0,
+      "notes": "Copper-particle PLA; polishable to metal sheen; hardened nozzle required.",
+      "product": "copperFill",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "ColorFabb nGen": {
+      "base_material": "PETG",
+      "bed_c": [
+        75,
+        85
+      ],
+      "brand": "ColorFabb",
+      "cost_per_kg_usd": 55.0,
+      "dry_hours_at_c": [
+        4,
+        65
+      ],
+      "fan_body_pct": 50,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        220,
+        240
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 11.0,
+      "notes": "Amphora copolyester; easier than PETG, higher Tg.",
+      "product": "nGen (Eastman Amphora)",
+      "retract_bowden_mm": 4.5,
+      "retract_direct_mm": 1.2
+    },
+    "Comgrow PLA": {
+      "base_material": "PLA",
+      "bed_c": [
+        50,
+        60
+      ],
+      "brand": "Comgrow",
+      "cost_per_kg_usd": 18.0,
+      "dry_hours_at_c": null,
+      "fan_body_pct": 100,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        190,
+        220
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 12.0,
+      "notes": "Creality-related sub-brand; +/-0.03 mm; budget tier.",
+      "product": "PLA",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "Creality CR-PLA": {
+      "base_material": "PLA",
+      "bed_c": [
+        50,
+        60
+      ],
+      "brand": "Creality",
+      "cost_per_kg_usd": 18.0,
+      "dry_hours_at_c": null,
+      "fan_body_pct": 100,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        190,
+        220
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 12.0,
+      "notes": "Creality's standard house-brand PLA; bundled with Ender / CR series.",
+      "product": "CR-PLA",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "Creality Hyper ABS": {
+      "base_material": "ABS",
+      "bed_c": [
+        75,
+        95
+      ],
+      "brand": "Creality",
+      "cost_per_kg_usd": 28.0,
+      "dry_hours_at_c": [
+        4,
+        65
+      ],
+      "fan_body_pct": 0,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        230,
+        270
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 15.0,
+      "notes": "High-speed ABS; enclosure required; +/-0.05 mm tolerance.",
+      "product": "Hyper ABS",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.6
+    },
+    "Creality Hyper PETG": {
+      "base_material": "PETG",
+      "bed_c": [
+        60,
+        80
+      ],
+      "brand": "Creality",
+      "cost_per_kg_usd": 25.0,
+      "dry_hours_at_c": [
+        8,
+        65
+      ],
+      "fan_body_pct": 40,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        220,
+        260
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 20.0,
+      "notes": "High-speed PETG; pairs with K1/K2 high-flow hotends.",
+      "product": "Hyper PETG",
+      "retract_bowden_mm": 5.0,
+      "retract_direct_mm": 1.5
+    },
+    "Creality Hyper PLA": {
+      "base_material": "PLA",
+      "bed_c": [
+        50,
+        60
+      ],
+      "brand": "Creality",
+      "cost_per_kg_usd": 25.0,
+      "dry_hours_at_c": null,
+      "fan_body_pct": 100,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        200,
+        230
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 20.0,
+      "notes": "High-speed tuned for K1 / K2 series; up to 600 mm/s rated.",
+      "product": "Hyper PLA",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "Das Filament PETG": {
+      "base_material": "PETG",
+      "bed_c": [
+        70,
+        85
+      ],
+      "brand": "Das Filament",
+      "cost_per_kg_usd": 28.0,
+      "dry_hours_at_c": [
+        8,
+        65
+      ],
+      "fan_body_pct": 40,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        210,
+        240
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 11.0,
+      "notes": "German-made; softening 80C; low shrinkage; odour-neutral; 1.75 and 2.85 mm gauges.",
+      "product": "PETG",
+      "retract_bowden_mm": 5.0,
+      "retract_direct_mm": 1.5
+    },
+    "Das Filament PLA": {
+      "base_material": "PLA",
+      "bed_c": [
+        50,
+        60
+      ],
+      "brand": "Das Filament",
+      "cost_per_kg_usd": 28.0,
+      "dry_hours_at_c": null,
+      "fan_body_pct": 100,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        195,
+        220
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 12.0,
+      "notes": "German-made; softening 55-60C; available in 1.75 and 2.85 mm.",
+      "product": "PLA",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "Devil Design ABS": {
+      "base_material": "ABS",
+      "bed_c": [
+        90,
+        100
+      ],
+      "brand": "Devil Design",
+      "cost_per_kg_usd": 24.0,
+      "dry_hours_at_c": [
+        4,
+        65
+      ],
+      "fan_body_pct": 0,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        230,
+        240
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 10.0,
+      "notes": "Polish premium ABS; enclosure required.",
+      "product": "ABS",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.6
+    },
+    "Devil Design ASA": {
+      "base_material": "ASA",
+      "bed_c": [
+        90,
+        110
+      ],
+      "brand": "Devil Design",
+      "cost_per_kg_usd": 28.0,
+      "dry_hours_at_c": [
+        6,
+        60
+      ],
+      "fan_body_pct": 0,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        240,
+        260
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 10.0,
+      "notes": "Polish ASA; UV/weather resistant; enclosure required.",
+      "product": "ASA",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.6
+    },
+    "Devil Design HIPS": {
+      "base_material": "HIPS",
+      "bed_c": [
+        100,
+        110
+      ],
+      "brand": "Devil Design",
+      "cost_per_kg_usd": 24.0,
+      "dry_hours_at_c": [
+        4,
+        65
+      ],
+      "fan_body_pct": 20,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        230,
+        250
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 8.0,
+      "notes": "Polish HIPS; limonene-soluble support for ABS/ASA dual-extrusion.",
+      "product": "HIPS",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "Devil Design PET-G": {
+      "base_material": "PETG",
+      "bed_c": [
+        70,
+        80
+      ],
+      "brand": "Devil Design",
+      "cost_per_kg_usd": 23.0,
+      "dry_hours_at_c": [
+        8,
+        65
+      ],
+      "fan_body_pct": 40,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        220,
+        250
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 11.0,
+      "notes": "Polish premium PETG; works well 230-235C.",
+      "product": "PET-G",
+      "retract_bowden_mm": 5.0,
+      "retract_direct_mm": 1.5
+    },
+    "Devil Design PLA": {
+      "base_material": "PLA",
+      "bed_c": [
+        50,
+        60
+      ],
+      "brand": "Devil Design",
+      "cost_per_kg_usd": 22.0,
+      "dry_hours_at_c": null,
+      "fan_body_pct": 100,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        200,
+        235
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 12.0,
+      "notes": "Polish premium; broad colour range; sweet spot 205-215C.",
+      "product": "PLA",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "Devil Design PLA-MATT": {
+      "base_material": "PLA",
+      "bed_c": [
+        50,
+        60
+      ],
+      "brand": "Devil Design",
+      "cost_per_kg_usd": 24.0,
+      "dry_hours_at_c": null,
+      "fan_body_pct": 100,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        200,
+        225
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 12.0,
+      "notes": "Matte-finish PLA; layer lines hidden; Polish premium.",
+      "product": "PLA MATT",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "Devil Design SILK": {
+      "base_material": "PLA",
+      "bed_c": [
+        50,
+        60
+      ],
+      "brand": "Devil Design",
+      "cost_per_kg_usd": 26.0,
+      "dry_hours_at_c": null,
+      "fan_body_pct": 100,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        200,
+        225
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 10.0,
+      "notes": "Silk-finish PLA blend; lustrous surface.",
+      "product": "SILK",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "Devil Design TPU": {
+      "base_material": "TPU",
+      "bed_c": [
+        45,
+        60
+      ],
+      "brand": "Devil Design",
+      "cost_per_kg_usd": 32.0,
+      "dry_hours_at_c": [
+        8,
+        60
+      ],
+      "fan_body_pct": 60,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        220,
+        240
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 5.0,
+      "notes": "Polish flexible TPU; direct-drive preferred.",
+      "product": "TPU",
+      "retract_bowden_mm": 2.0,
+      "retract_direct_mm": 0.4
+    },
+    "Duramic PETG": {
+      "base_material": "PETG",
+      "bed_c": [
+        70,
+        80
+      ],
+      "brand": "Duramic 3D",
+      "cost_per_kg_usd": 22.0,
+      "dry_hours_at_c": [
+        8,
+        65
+      ],
+      "fan_body_pct": 40,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        230,
+        250
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 11.0,
+      "notes": "US Amazon brand; non-tangling, non-clogging, non-stringing claims.",
+      "product": "PETG",
+      "retract_bowden_mm": 5.0,
+      "retract_direct_mm": 1.5
+    },
+    "Duramic PLA+": {
+      "base_material": "PLA",
+      "bed_c": [
+        25,
+        60
+      ],
+      "brand": "Duramic 3D",
+      "cost_per_kg_usd": 20.0,
+      "dry_hours_at_c": null,
+      "fan_body_pct": 100,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        210,
+        230
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 12.0,
+      "notes": "US Amazon brand; +/-0.03 mm; cardboard spool; 8x strength claim.",
+      "product": "PLA+",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "ELEGOO PLA": {
+      "base_material": "PLA",
+      "bed_c": [
+        50,
+        60
+      ],
+      "brand": "ELEGOO",
+      "cost_per_kg_usd": 18.0,
+      "dry_hours_at_c": null,
+      "fan_body_pct": 100,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        190,
+        220
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 12.0,
+      "notes": "House-brand PLA bundled with ELEGOO Centauri / Neptune series.",
+      "product": "PLA",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "ELEGOO Rapid PETG": {
+      "base_material": "PETG",
+      "bed_c": [
+        70,
+        90
+      ],
+      "brand": "ELEGOO",
+      "cost_per_kg_usd": 22.0,
+      "dry_hours_at_c": [
+        8,
+        60
+      ],
+      "fan_body_pct": 40,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        230,
+        250
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 20.0,
+      "notes": "High-speed PETG; rated 30-600 mm/s; +/-0.02 mm tolerance.",
+      "product": "Rapid PETG",
+      "retract_bowden_mm": 5.0,
+      "retract_direct_mm": 1.5
+    },
+    "Eryone PETG": {
+      "base_material": "PETG",
+      "bed_c": [
+        70,
+        80
+      ],
+      "brand": "Eryone",
+      "cost_per_kg_usd": 20.0,
+      "dry_hours_at_c": [
+        8,
+        65
+      ],
+      "fan_body_pct": 40,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        215,
+        230
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 11.0,
+      "notes": "Chinese mid-tier; runs slightly cooler than typical PETG.",
+      "product": "PETG",
+      "retract_bowden_mm": 5.0,
+      "retract_direct_mm": 1.5
+    },
+    "Eryone PLA Silk": {
+      "base_material": "PLA",
+      "bed_c": [
+        50,
+        60
+      ],
+      "brand": "Eryone",
+      "cost_per_kg_usd": 20.0,
+      "dry_hours_at_c": null,
+      "fan_body_pct": 100,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        190,
+        220
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 10.0,
+      "notes": "Silk-finish PLA blend; lustrous metallic-look surface.",
+      "product": "PLA Silk",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "Eryone PLA+": {
+      "base_material": "PLA",
+      "bed_c": [
+        50,
+        60
+      ],
+      "brand": "Eryone",
+      "cost_per_kg_usd": 22.0,
+      "dry_hours_at_c": null,
+      "fan_body_pct": 100,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        200,
+        220
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 12.0,
+      "notes": "Toughness-modified PLA; suitable for FDM 3D printers.",
+      "product": "PLA+",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "Extrudr GreenTec Pro": {
+      "base_material": "PLA",
+      "bed_c": [
+        45,
+        60
+      ],
+      "brand": "Extrudr",
+      "cost_per_kg_usd": 55.0,
+      "dry_hours_at_c": [
+        6,
+        60
+      ],
+      "fan_body_pct": 80,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        210,
+        240
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 10.0,
+      "notes": "Austrian biopolymer (PLA-based); 100% renewable raw materials; HDT 160C; PEEK-like high-perf bioplastic.",
+      "product": "GreenTec Pro",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "Fiberlogy Easy PETG": {
+      "base_material": "PETG",
+      "bed_c": [
+        80,
+        90
+      ],
+      "brand": "Fiberlogy",
+      "cost_per_kg_usd": 28.0,
+      "dry_hours_at_c": [
+        8,
+        65
+      ],
+      "fan_body_pct": 40,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        220,
+        240
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 11.0,
+      "notes": "EU professional PETG; strong adhesion (use glue/tape on glass).",
+      "product": "Easy PETG",
+      "retract_bowden_mm": 5.0,
+      "retract_direct_mm": 1.5
+    },
+    "Fiberlogy Easy PLA": {
+      "base_material": "PLA",
+      "bed_c": [
+        50,
+        60
+      ],
+      "brand": "Fiberlogy",
+      "cost_per_kg_usd": 28.0,
+      "dry_hours_at_c": null,
+      "fan_body_pct": 100,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        200,
+        230
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 12.0,
+      "notes": "EU professional PLA; white needs >=230C minimum due to dye.",
+      "product": "Easy PLA",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "Fiberlogy PA12+CF": {
+      "base_material": "PA",
+      "bed_c": [
+        70,
+        100
+      ],
+      "brand": "Fiberlogy",
+      "cost_per_kg_usd": 80.0,
+      "dry_hours_at_c": [
+        8,
+        80
+      ],
+      "fan_body_pct": 0,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        260,
+        290
+      ],
+      "is_composite": true,
+      "max_volumetric_mm3s": 8.0,
+      "notes": "15% carbon-fibre PA12; hardened steel nozzle required; engineering parts.",
+      "product": "Nylon PA12+CF",
+      "retract_bowden_mm": 3.0,
+      "retract_direct_mm": 1.0
+    },
+    "Fillamentum ABS": {
+      "base_material": "ABS",
+      "bed_c": [
+        95,
+        110
+      ],
+      "brand": "Fillamentum",
+      "cost_per_kg_usd": 32.0,
+      "dry_hours_at_c": [
+        4,
+        65
+      ],
+      "fan_body_pct": 0,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        240,
+        265
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 10.0,
+      "notes": "Czech premium ABS; enclosure required.",
+      "product": "ABS Extrafill",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.6
+    },
+    "Fillamentum HIPS": {
+      "base_material": "HIPS",
+      "bed_c": [
+        90,
+        105
+      ],
+      "brand": "Fillamentum",
+      "cost_per_kg_usd": 30.0,
+      "dry_hours_at_c": [
+        4,
+        70
+      ],
+      "fan_body_pct": 0,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        230,
+        245
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 9.0,
+      "notes": "Limonene-soluble support for ABS/ASA; same print profile.",
+      "product": "HIPS",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.6
+    },
+    "Fillamentum NonOilen": {
+      "base_material": "PLA",
+      "bed_c": [
+        0,
+        50
+      ],
+      "brand": "Fillamentum",
+      "cost_per_kg_usd": 55.0,
+      "dry_hours_at_c": null,
+      "fan_body_pct": 100,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": true,
+      "hotend_c": [
+        175,
+        195
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 10.0,
+      "notes": "PLA/PHB blend; food-safe + dishwasher-safe; HDT 110C without annealing; 100% biodegradable.",
+      "product": "NonOilen",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "Fillamentum Nylon CF15 Carbon": {
+      "base_material": "PA",
+      "bed_c": [
+        80,
+        100
+      ],
+      "brand": "Fillamentum",
+      "cost_per_kg_usd": 95.0,
+      "dry_hours_at_c": [
+        6,
+        80
+      ],
+      "fan_body_pct": 0,
+      "flow_multiplier": 0.98,
+      "food_safe_claim": false,
+      "hotend_c": [
+        255,
+        275
+      ],
+      "is_composite": true,
+      "max_volumetric_mm3s": 9.0,
+      "notes": "",
+      "product": "Nylon CF15 Carbon",
+      "retract_bowden_mm": 3.0,
+      "retract_direct_mm": 1.0
+    },
+    "Fillamentum PCTG": {
+      "base_material": "PCTG",
+      "bed_c": [
+        80,
+        90
+      ],
+      "brand": "Fillamentum",
+      "cost_per_kg_usd": 50.0,
+      "dry_hours_at_c": [
+        4,
+        70
+      ],
+      "fan_body_pct": 30,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": true,
+      "hotend_c": [
+        245,
+        265
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 10.0,
+      "notes": "Glycol-modified copolyester; food-safe claim; tougher than PETG.",
+      "product": "PCTG",
+      "retract_bowden_mm": 5.0,
+      "retract_direct_mm": 1.5
+    },
+    "Fillamentum PLA Extrafill": {
+      "base_material": "PLA",
+      "bed_c": [
+        50,
+        60
+      ],
+      "brand": "Fillamentum",
+      "cost_per_kg_usd": 32.0,
+      "dry_hours_at_c": null,
+      "fan_body_pct": 100,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        210,
+        230
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 12.0,
+      "notes": "",
+      "product": "PLA Extrafill",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "Fillamentum Timberfill": {
+      "base_material": "PLA",
+      "bed_c": [
+        50,
+        60
+      ],
+      "brand": "Fillamentum",
+      "cost_per_kg_usd": 45.0,
+      "dry_hours_at_c": null,
+      "fan_body_pct": 100,
+      "flow_multiplier": 0.95,
+      "food_safe_claim": false,
+      "hotend_c": [
+        180,
+        210
+      ],
+      "is_composite": true,
+      "max_volumetric_mm3s": 9.0,
+      "notes": "Wood-PLA composite; sands and stains like real wood.",
+      "product": "Timberfill",
+      "retract_bowden_mm": 3.5,
+      "retract_direct_mm": 0.6
+    },
+    "Flashforge ABS": {
+      "base_material": "ABS",
+      "bed_c": [
+        95,
+        110
+      ],
+      "brand": "Flashforge",
+      "cost_per_kg_usd": 25.0,
+      "dry_hours_at_c": [
+        4,
+        65
+      ],
+      "fan_body_pct": 0,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        220,
+        250
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 10.0,
+      "notes": "House-brand ABS; enclosure required.",
+      "product": "ABS",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.6
+    },
+    "Flashforge HS PETG": {
+      "base_material": "PETG",
+      "bed_c": [
+        80,
+        100
+      ],
+      "brand": "Flashforge",
+      "cost_per_kg_usd": 28.0,
+      "dry_hours_at_c": [
+        8,
+        65
+      ],
+      "fan_body_pct": 40,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        220,
+        240
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 18.0,
+      "notes": "High-speed PETG; tuned for Adventurer 5M Pro and similar.",
+      "product": "HS PETG",
+      "retract_bowden_mm": 5.0,
+      "retract_direct_mm": 1.5
+    },
+    "Flashforge PLA": {
+      "base_material": "PLA",
+      "bed_c": [
+        50,
+        60
+      ],
+      "brand": "Flashforge",
+      "cost_per_kg_usd": 22.0,
+      "dry_hours_at_c": null,
+      "fan_body_pct": 100,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        190,
+        220
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 12.0,
+      "notes": "House-brand PLA bundled with Adventurer / Creator series.",
+      "product": "PLA",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "Formfutura ApolloX (ASA)": {
+      "base_material": "ASA",
+      "bed_c": [
+        100,
+        110
+      ],
+      "brand": "Formfutura",
+      "cost_per_kg_usd": 50.0,
+      "dry_hours_at_c": [
+        4,
+        80
+      ],
+      "fan_body_pct": 0,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        245,
+        265
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 10.0,
+      "notes": "UV-stable ASA engineered by Formfutura.",
+      "product": "ApolloX",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.6
+    },
+    "Formfutura HDGlass": {
+      "base_material": "PETG",
+      "bed_c": [
+        70,
+        85
+      ],
+      "brand": "Formfutura",
+      "cost_per_kg_usd": 38.0,
+      "dry_hours_at_c": [
+        4,
+        65
+      ],
+      "fan_body_pct": 50,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        220,
+        245
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 11.0,
+      "notes": "High-transparency PETG; prints slow for clarity.",
+      "product": "HDGlass (PETG)",
+      "retract_bowden_mm": 4.5,
+      "retract_direct_mm": 1.2
+    },
+    "Geeetech PLA Silk": {
+      "base_material": "PLA",
+      "bed_c": [
+        40,
+        60
+      ],
+      "brand": "Geeetech",
+      "cost_per_kg_usd": 20.0,
+      "dry_hours_at_c": null,
+      "fan_body_pct": 100,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        200,
+        230
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 10.0,
+      "notes": "Silk-finish PLA; +/-0.02 mm tolerance; per-color temp tower recommended.",
+      "product": "PLA Silk",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "Hatchbox ABS": {
+      "base_material": "ABS",
+      "bed_c": [
+        95,
+        110
+      ],
+      "brand": "Hatchbox",
+      "cost_per_kg_usd": 22.0,
+      "dry_hours_at_c": [
+        4,
+        65
+      ],
+      "fan_body_pct": 0,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        230,
+        260
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 10.0,
+      "notes": "US Amazon mainstay ABS; broad colours; enclosure required.",
+      "product": "ABS",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.6
+    },
+    "Hatchbox PETG": {
+      "base_material": "PETG",
+      "bed_c": [
+        80,
+        90
+      ],
+      "brand": "Hatchbox",
+      "cost_per_kg_usd": 23.0,
+      "dry_hours_at_c": [
+        4,
+        65
+      ],
+      "fan_body_pct": 40,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        230,
+        250
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 11.0,
+      "notes": "",
+      "product": "PETG",
+      "retract_bowden_mm": 5.0,
+      "retract_direct_mm": 1.5
+    },
+    "Hatchbox PLA": {
+      "base_material": "PLA",
+      "bed_c": [
+        45,
+        60
+      ],
+      "brand": "Hatchbox",
+      "cost_per_kg_usd": 20.0,
+      "dry_hours_at_c": null,
+      "fan_body_pct": 100,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        180,
+        220
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 12.0,
+      "notes": "",
+      "product": "PLA",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "Hatchbox TPU": {
+      "base_material": "TPU",
+      "bed_c": [
+        45,
+        60
+      ],
+      "brand": "Hatchbox",
+      "cost_per_kg_usd": 28.0,
+      "dry_hours_at_c": [
+        8,
+        60
+      ],
+      "fan_body_pct": 60,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        220,
+        235
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 5.0,
+      "notes": "US Amazon mainstay TPU 95A; direct-drive preferred.",
+      "product": "TPU",
+      "retract_bowden_mm": 2.0,
+      "retract_direct_mm": 0.4
+    },
+    "IC3D ABS": {
+      "base_material": "ABS",
+      "bed_c": [
+        85,
+        105
+      ],
+      "brand": "IC3D",
+      "cost_per_kg_usd": 28.0,
+      "dry_hours_at_c": [
+        4,
+        65
+      ],
+      "fan_body_pct": 0,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        235,
+        260
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 10.0,
+      "notes": "US-made (Ohio); low-warp in 35C+ enclosure.",
+      "product": "ABS",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.6
+    },
+    "IC3D PETG": {
+      "base_material": "PETG",
+      "bed_c": [
+        70,
+        80
+      ],
+      "brand": "IC3D",
+      "cost_per_kg_usd": 27.0,
+      "dry_hours_at_c": [
+        8,
+        65
+      ],
+      "fan_body_pct": 40,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        240,
+        260
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 11.0,
+      "notes": "US-made (Ohio); runs hot vs typical PETG.",
+      "product": "PETG",
+      "retract_bowden_mm": 5.0,
+      "retract_direct_mm": 1.5
+    },
+    "IC3D PLA": {
+      "base_material": "PLA",
+      "bed_c": [
+        55,
+        65
+      ],
+      "brand": "IC3D",
+      "cost_per_kg_usd": 25.0,
+      "dry_hours_at_c": null,
+      "fan_body_pct": 100,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        195,
+        215
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 12.0,
+      "notes": "US-made (Ohio); virgin resin; published TDS and SDS.",
+      "product": "PLA",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "IEMAI CF-PA": {
+      "base_material": "PA",
+      "bed_c": [
+        80,
+        100
+      ],
+      "brand": "IEMAI",
+      "cost_per_kg_usd": 85.0,
+      "dry_hours_at_c": [
+        8,
+        80
+      ],
+      "fan_body_pct": 0,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        260,
+        290
+      ],
+      "is_composite": true,
+      "max_volumetric_mm3s": 8.0,
+      "notes": "Carbon-fibre PA6/PA66 copolymer; mechanical properties hold to 120C; hardened nozzle required.",
+      "product": "CF-PA",
+      "retract_bowden_mm": 3.0,
+      "retract_direct_mm": 1.0
+    },
+    "IEMAI CF-PEEK": {
+      "base_material": "PEEK",
+      "bed_c": [
+        130,
+        150
+      ],
+      "brand": "IEMAI",
+      "cost_per_kg_usd": 550.0,
+      "dry_hours_at_c": [
+        4,
+        120
+      ],
+      "fan_body_pct": 0,
+      "flow_multiplier": 0.98,
+      "food_safe_claim": false,
+      "hotend_c": [
+        380,
+        420
+      ],
+      "is_composite": true,
+      "max_volumetric_mm3s": 6.0,
+      "notes": "10% carbon-fibre PEEK; lighter and better interlayer than pure PEEK; hardened nozzle required.",
+      "product": "CF-PEEK",
+      "retract_bowden_mm": 2.0,
+      "retract_direct_mm": 0.5
+    },
+    "Inland ABS": {
+      "base_material": "ABS",
+      "bed_c": [
+        95,
+        110
+      ],
+      "brand": "Inland",
+      "cost_per_kg_usd": 20.0,
+      "dry_hours_at_c": [
+        4,
+        65
+      ],
+      "fan_body_pct": 0,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        230,
+        260
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 10.0,
+      "notes": "Microcenter house brand ABS; budget-priced; enclosure required.",
+      "product": "ABS",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.6
+    },
+    "Inland PETG": {
+      "base_material": "PETG",
+      "bed_c": [
+        75,
+        85
+      ],
+      "brand": "Inland",
+      "cost_per_kg_usd": 22.0,
+      "dry_hours_at_c": [
+        4,
+        65
+      ],
+      "fan_body_pct": 40,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        230,
+        250
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 11.0,
+      "notes": "",
+      "product": "PETG",
+      "retract_bowden_mm": 5.0,
+      "retract_direct_mm": 1.5
+    },
+    "Inland PLA": {
+      "base_material": "PLA",
+      "bed_c": [
+        45,
+        60
+      ],
+      "brand": "Inland",
+      "cost_per_kg_usd": 18.0,
+      "dry_hours_at_c": null,
+      "fan_body_pct": 100,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        200,
+        220
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 12.0,
+      "notes": "Micro Center house brand; reliable budget PLA.",
+      "product": "PLA",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "Inland PLA+": {
+      "base_material": "PLA",
+      "bed_c": [
+        45,
+        60
+      ],
+      "brand": "Inland",
+      "cost_per_kg_usd": 20.0,
+      "dry_hours_at_c": null,
+      "fan_body_pct": 100,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        205,
+        225
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 12.0,
+      "notes": "",
+      "product": "PLA+",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "Jayo PETG": {
+      "base_material": "PETG",
+      "bed_c": [
+        75,
+        85
+      ],
+      "brand": "JAYO",
+      "cost_per_kg_usd": 18.0,
+      "dry_hours_at_c": [
+        8,
+        65
+      ],
+      "fan_body_pct": 40,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        220,
+        250
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 11.0,
+      "notes": "Chinese budget PETG; popular on Amazon.",
+      "product": "PETG",
+      "retract_bowden_mm": 5.0,
+      "retract_direct_mm": 1.5
+    },
+    "Jayo PLA+": {
+      "base_material": "PLA",
+      "bed_c": [
+        50,
+        60
+      ],
+      "brand": "JAYO",
+      "cost_per_kg_usd": 15.0,
+      "dry_hours_at_c": null,
+      "fan_body_pct": 100,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        200,
+        230
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 12.0,
+      "notes": "Chinese budget; +/-0.02 mm; tougher than plain PLA; mega-spool sizes.",
+      "product": "PLA+",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "Jayo Silk PLA+": {
+      "base_material": "PLA",
+      "bed_c": [
+        60,
+        80
+      ],
+      "brand": "JAYO",
+      "cost_per_kg_usd": 18.0,
+      "dry_hours_at_c": null,
+      "fan_body_pct": 100,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        200,
+        230
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 10.0,
+      "notes": "Multi-color silk PLA blend; lustrous metallic-look surface.",
+      "product": "Silk PLA+",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "Kexcelled K5 ABS": {
+      "base_material": "ABS",
+      "bed_c": [
+        95,
+        110
+      ],
+      "brand": "Kexcelled",
+      "cost_per_kg_usd": 25.0,
+      "dry_hours_at_c": [
+        4,
+        65
+      ],
+      "fan_body_pct": 0,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        220,
+        250
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 10.0,
+      "notes": "Standard ABS; enclosure required.",
+      "product": "K5 ABS",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.6
+    },
+    "Kexcelled K5 ASA": {
+      "base_material": "ASA",
+      "bed_c": [
+        95,
+        110
+      ],
+      "brand": "Kexcelled",
+      "cost_per_kg_usd": 28.0,
+      "dry_hours_at_c": [
+        6,
+        60
+      ],
+      "fan_body_pct": 0,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        240,
+        260
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 10.0,
+      "notes": "UV stable, heat resistant to 100C; enclosure required.",
+      "product": "K5 ASA",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.6
+    },
+    "Kexcelled K5 PETG": {
+      "base_material": "PETG",
+      "bed_c": [
+        75,
+        85
+      ],
+      "brand": "Kexcelled",
+      "cost_per_kg_usd": 24.0,
+      "dry_hours_at_c": [
+        8,
+        65
+      ],
+      "fan_body_pct": 40,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        230,
+        260
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 11.0,
+      "notes": "Easy-to-print PETG; toughness + heat/weather resistance.",
+      "product": "K5 PETG",
+      "retract_bowden_mm": 5.0,
+      "retract_direct_mm": 1.5
+    },
+    "Kexcelled K5 PLA": {
+      "base_material": "PLA",
+      "bed_c": [
+        50,
+        60
+      ],
+      "brand": "Kexcelled",
+      "cost_per_kg_usd": 22.0,
+      "dry_hours_at_c": null,
+      "fan_body_pct": 100,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        190,
+        220
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 12.0,
+      "notes": "Chinese premium; broad colour range; tight tolerance for the price.",
+      "product": "K5 PLA",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "Kimya PEI-9085": {
+      "base_material": "PEI",
+      "bed_c": [
+        140,
+        160
+      ],
+      "brand": "Kimya",
+      "cost_per_kg_usd": 400.0,
+      "dry_hours_at_c": [
+        4,
+        120
+      ],
+      "fan_body_pct": 0,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        360,
+        380
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 7.0,
+      "notes": "Aerospace-grade PEI; needs 250 \u00b0C+ chamber for full strength.",
+      "product": "PEI-9085 (ULTEM)",
+      "retract_bowden_mm": 3.5,
+      "retract_direct_mm": 0.8
+    },
+    "Kingroon PETG": {
+      "base_material": "PETG",
+      "bed_c": [
+        70,
+        80
+      ],
+      "brand": "Kingroon",
+      "cost_per_kg_usd": 18.0,
+      "dry_hours_at_c": [
+        8,
+        65
+      ],
+      "fan_body_pct": 40,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        210,
+        230
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 11.0,
+      "notes": "Budget Chinese PETG; +/-0.03 mm tolerance; service temp to 84C.",
+      "product": "PETG",
+      "retract_bowden_mm": 5.0,
+      "retract_direct_mm": 1.5
+    },
+    "Kingroon PLA": {
+      "base_material": "PLA",
+      "bed_c": [
+        50,
+        60
+      ],
+      "brand": "Kingroon",
+      "cost_per_kg_usd": 16.0,
+      "dry_hours_at_c": null,
+      "fan_body_pct": 100,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        190,
+        220
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 12.0,
+      "notes": "Plant-based renewable PLA; bundled with Kingroon KP3S/KLP1 series.",
+      "product": "PLA",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "MatterHackers Build PLA": {
+      "base_material": "PLA",
+      "bed_c": [
+        45,
+        60
+      ],
+      "brand": "MatterHackers",
+      "cost_per_kg_usd": 20.0,
+      "dry_hours_at_c": null,
+      "fan_body_pct": 100,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        200,
+        220
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 12.0,
+      "notes": "",
+      "product": "Build Series PLA",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "MatterHackers Pro PLA": {
+      "base_material": "PLA",
+      "bed_c": [
+        55,
+        65
+      ],
+      "brand": "MatterHackers",
+      "cost_per_kg_usd": 35.0,
+      "dry_hours_at_c": null,
+      "fan_body_pct": 100,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        205,
+        225
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 12.0,
+      "notes": "Tighter tolerance; higher impact strength.",
+      "product": "Pro Series PLA",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "Mika3D Silk PLA": {
+      "base_material": "PLA",
+      "bed_c": [
+        50,
+        60
+      ],
+      "brand": "Mika3D",
+      "cost_per_kg_usd": 22.0,
+      "dry_hours_at_c": null,
+      "fan_body_pct": 100,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        205,
+        230
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 10.0,
+      "notes": "Multi-color silk PLA; +/-0.05 mm; popular Amazon silk specialty; users often run hotter (~225C) for clog-free flow.",
+      "product": "Silk PLA",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "NinjaTek Armadillo": {
+      "base_material": "TPU",
+      "bed_c": [
+        40,
+        60
+      ],
+      "brand": "NinjaTek",
+      "cost_per_kg_usd": 80.0,
+      "dry_hours_at_c": [
+        4,
+        50
+      ],
+      "fan_body_pct": 50,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        230,
+        245
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 6.0,
+      "notes": "75D shore \u2014 hardest TPU; prints almost like PETG.",
+      "product": "Armadillo (75D TPU)",
+      "retract_bowden_mm": 2.5,
+      "retract_direct_mm": 0.5
+    },
+    "NinjaTek Cheetah": {
+      "base_material": "TPU",
+      "bed_c": [
+        40,
+        60
+      ],
+      "brand": "NinjaTek",
+      "cost_per_kg_usd": 70.0,
+      "dry_hours_at_c": [
+        4,
+        50
+      ],
+      "fan_body_pct": 55,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        225,
+        240
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 5.0,
+      "notes": "Faster-printing TPU; 95A shore.",
+      "product": "Cheetah (95A TPU)",
+      "retract_bowden_mm": 2.0,
+      "retract_direct_mm": 0.4
+    },
+    "NinjaTek NinjaFlex (85A)": {
+      "base_material": "TPU",
+      "bed_c": [
+        40,
+        60
+      ],
+      "brand": "NinjaTek",
+      "cost_per_kg_usd": 80.0,
+      "dry_hours_at_c": [
+        4,
+        50
+      ],
+      "fan_body_pct": 60,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        225,
+        235
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 3.0,
+      "notes": "Very soft; direct drive essential; slow print.",
+      "product": "NinjaFlex (85A)",
+      "retract_bowden_mm": 2.0,
+      "retract_direct_mm": 0.4
+    },
+    "Overture PETG": {
+      "base_material": "PETG",
+      "bed_c": [
+        80,
+        90
+      ],
+      "brand": "Overture",
+      "cost_per_kg_usd": 20.0,
+      "dry_hours_at_c": [
+        4,
+        65
+      ],
+      "fan_body_pct": 40,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        230,
+        250
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 11.0,
+      "notes": "",
+      "product": "PETG",
+      "retract_bowden_mm": 5.0,
+      "retract_direct_mm": 1.5
+    },
+    "Overture PLA": {
+      "base_material": "PLA",
+      "bed_c": [
+        45,
+        60
+      ],
+      "brand": "Overture",
+      "cost_per_kg_usd": 18.0,
+      "dry_hours_at_c": null,
+      "fan_body_pct": 100,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        200,
+        230
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 12.0,
+      "notes": "",
+      "product": "PLA",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "Overture Silk PLA": {
+      "base_material": "PLA",
+      "bed_c": [
+        50,
+        60
+      ],
+      "brand": "Overture",
+      "cost_per_kg_usd": 25.0,
+      "dry_hours_at_c": null,
+      "fan_body_pct": 100,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        205,
+        225
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 12.0,
+      "notes": "",
+      "product": "Silk PLA",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "Paramount 3D PLA": {
+      "base_material": "PLA",
+      "bed_c": [
+        45,
+        60
+      ],
+      "brand": "Paramount 3D",
+      "cost_per_kg_usd": 22.0,
+      "dry_hours_at_c": null,
+      "fan_body_pct": 100,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        195,
+        215
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 12.0,
+      "notes": "",
+      "product": "PLA",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "Polymaker CoPA": {
+      "base_material": "PA",
+      "bed_c": [
+        25,
+        50
+      ],
+      "brand": "Polymaker",
+      "cost_per_kg_usd": 55.0,
+      "dry_hours_at_c": [
+        6,
+        80
+      ],
+      "fan_body_pct": 0,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        250,
+        270
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 8.0,
+      "notes": "Copolymer nylon; low shrink; enclosure preferred.",
+      "product": "CoPA",
+      "retract_bowden_mm": 3.0,
+      "retract_direct_mm": 1.0
+    },
+    "Polymaker Fiberon PA612-CF": {
+      "base_material": "PA",
+      "bed_c": [
+        80,
+        100
+      ],
+      "brand": "Polymaker",
+      "cost_per_kg_usd": 85.0,
+      "dry_hours_at_c": [
+        6,
+        80
+      ],
+      "fan_body_pct": 0,
+      "flow_multiplier": 0.98,
+      "food_safe_claim": false,
+      "hotend_c": [
+        280,
+        300
+      ],
+      "is_composite": true,
+      "max_volumetric_mm3s": 10.0,
+      "notes": "Low moisture uptake PA612 with CF; hardened nozzle.",
+      "product": "Fiberon PA612-CF",
+      "retract_bowden_mm": 3.0,
+      "retract_direct_mm": 1.0
+    },
+    "Polymaker PolyDissolve S1": {
+      "base_material": "PVA",
+      "bed_c": [
+        45,
+        65
+      ],
+      "brand": "Polymaker",
+      "cost_per_kg_usd": 75.0,
+      "dry_hours_at_c": [
+        8,
+        50
+      ],
+      "fan_body_pct": 50,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        200,
+        220
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 5.0,
+      "notes": "PVA-based; dissolves in water for multi-material supports.",
+      "product": "PolyDissolve S1",
+      "retract_bowden_mm": 3.5,
+      "retract_direct_mm": 0.8
+    },
+    "Polymaker PolyDissolve S2": {
+      "base_material": "PVA",
+      "bed_c": [
+        45,
+        60
+      ],
+      "brand": "Polymaker",
+      "cost_per_kg_usd": 120.0,
+      "dry_hours_at_c": [
+        12,
+        60
+      ],
+      "fan_body_pct": 80,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        230,
+        250
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 8.0,
+      "notes": "High-temp PVA support; for ABS/ASA/PC; warm alkaline-water soluble; Tg 113C.",
+      "product": "PolyDissolve S2",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "Polymaker PolyFlex TPU95": {
+      "base_material": "TPU",
+      "bed_c": [
+        45,
+        60
+      ],
+      "brand": "Polymaker",
+      "cost_per_kg_usd": 45.0,
+      "dry_hours_at_c": [
+        4,
+        50
+      ],
+      "fan_body_pct": 60,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        220,
+        235
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 5.0,
+      "notes": "",
+      "product": "PolyFlex TPU95",
+      "retract_bowden_mm": 2.0,
+      "retract_direct_mm": 0.4
+    },
+    "Polymaker PolyLite ABS": {
+      "base_material": "ABS",
+      "bed_c": [
+        90,
+        100
+      ],
+      "brand": "Polymaker",
+      "cost_per_kg_usd": 27.0,
+      "dry_hours_at_c": [
+        6,
+        80
+      ],
+      "fan_body_pct": 0,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        240,
+        260
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 10.0,
+      "notes": "",
+      "product": "PolyLite ABS",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.6
+    },
+    "Polymaker PolyLite ASA": {
+      "base_material": "ASA",
+      "bed_c": [
+        100,
+        110
+      ],
+      "brand": "Polymaker",
+      "cost_per_kg_usd": 30.0,
+      "dry_hours_at_c": [
+        4,
+        80
+      ],
+      "fan_body_pct": 0,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        250,
+        270
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 10.0,
+      "notes": "",
+      "product": "PolyLite ASA",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.6
+    },
+    "Polymaker PolyLite PETG": {
+      "base_material": "PETG",
+      "bed_c": [
+        70,
+        90
+      ],
+      "brand": "Polymaker",
+      "cost_per_kg_usd": 22.0,
+      "dry_hours_at_c": [
+        4,
+        65
+      ],
+      "fan_body_pct": 40,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        230,
+        250
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 11.0,
+      "notes": "",
+      "product": "PolyLite PETG",
+      "retract_bowden_mm": 5.0,
+      "retract_direct_mm": 1.5
+    },
+    "Polymaker PolyLite PLA": {
+      "base_material": "PLA",
+      "bed_c": [
+        25,
+        60
+      ],
+      "brand": "Polymaker",
+      "cost_per_kg_usd": 20.0,
+      "dry_hours_at_c": null,
+      "fan_body_pct": 100,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        190,
+        230
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 15.0,
+      "notes": "",
+      "product": "PolyLite PLA",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "Polymaker PolyLite PLA-CF": {
+      "base_material": "PLA",
+      "bed_c": [
+        55,
+        65
+      ],
+      "brand": "Polymaker",
+      "cost_per_kg_usd": 45.0,
+      "dry_hours_at_c": null,
+      "fan_body_pct": 100,
+      "flow_multiplier": 0.98,
+      "food_safe_claim": false,
+      "hotend_c": [
+        210,
+        230
+      ],
+      "is_composite": true,
+      "max_volumetric_mm3s": 13.0,
+      "notes": "Hardened nozzle mandatory; stiffer than PLA but brittle.",
+      "product": "PolyLite PLA-CF",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "Polymaker PolyMax PC": {
+      "base_material": "PC",
+      "bed_c": [
+        90,
+        105
+      ],
+      "brand": "Polymaker",
+      "cost_per_kg_usd": 65.0,
+      "dry_hours_at_c": [
+        6,
+        80
+      ],
+      "fan_body_pct": 0,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        250,
+        270
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 9.0,
+      "notes": "Easier to print than most PCs; still needs enclosure.",
+      "product": "PolyMax PC",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "Polymaker PolyMax PC-FR": {
+      "base_material": "PC",
+      "bed_c": [
+        90,
+        110
+      ],
+      "brand": "Polymaker",
+      "cost_per_kg_usd": 85.0,
+      "dry_hours_at_c": [
+        6,
+        80
+      ],
+      "fan_body_pct": 0,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        260,
+        280
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 9.0,
+      "notes": "Flame-retardant polycarbonate; UL94 V-0.",
+      "product": "PolyMax PC-FR",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "Polymaker PolyMax PETG": {
+      "base_material": "PETG",
+      "bed_c": [
+        75,
+        90
+      ],
+      "brand": "Polymaker",
+      "cost_per_kg_usd": 32.0,
+      "dry_hours_at_c": [
+        4,
+        65
+      ],
+      "fan_body_pct": 40,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        230,
+        250
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 11.0,
+      "notes": "Impact-modified PETG; tougher than PolyLite PETG.",
+      "product": "PolyMax PETG",
+      "retract_bowden_mm": 5.0,
+      "retract_direct_mm": 1.5
+    },
+    "Polymaker PolyMax PLA": {
+      "base_material": "PLA",
+      "bed_c": [
+        25,
+        60
+      ],
+      "brand": "Polymaker",
+      "cost_per_kg_usd": 35.0,
+      "dry_hours_at_c": null,
+      "fan_body_pct": 100,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        190,
+        230
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 15.0,
+      "notes": "Toughness-modified PLA; impact strength near ABS; HDT ~60C.",
+      "product": "PolyMax PLA",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "Polymaker PolyMax Tough PETG": {
+      "base_material": "PETG",
+      "bed_c": [
+        70,
+        80
+      ],
+      "brand": "Polymaker",
+      "cost_per_kg_usd": 40.0,
+      "dry_hours_at_c": [
+        8,
+        65
+      ],
+      "fan_body_pct": 40,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        230,
+        250
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 11.0,
+      "notes": "Toughness-modified PETG; higher impact than standard PETG.",
+      "product": "PolyMax Tough PETG",
+      "retract_bowden_mm": 5.0,
+      "retract_direct_mm": 1.5
+    },
+    "Polymaker PolyMide PA6-GF": {
+      "base_material": "PA",
+      "bed_c": [
+        50,
+        80
+      ],
+      "brand": "Polymaker",
+      "cost_per_kg_usd": 60.0,
+      "dry_hours_at_c": [
+        6,
+        80
+      ],
+      "fan_body_pct": 0,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        270,
+        290
+      ],
+      "is_composite": true,
+      "max_volumetric_mm3s": 9.0,
+      "notes": "Glass-fibre reinforced PA6; hardened nozzle required.",
+      "product": "PolyMide PA6-GF",
+      "retract_bowden_mm": 3.0,
+      "retract_direct_mm": 1.0
+    },
+    "Polymaker PolySonic PLA": {
+      "base_material": "PLA",
+      "bed_c": [
+        25,
+        60
+      ],
+      "brand": "Polymaker",
+      "cost_per_kg_usd": 28.0,
+      "dry_hours_at_c": [
+        6,
+        55
+      ],
+      "fan_body_pct": 100,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        190,
+        230
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 22.0,
+      "notes": "High-speed PLA; 100-300 mm/s rated; up to 22 mm3/s flow.",
+      "product": "PolySonic PLA",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "Polymaker PolySonic PLA Pro": {
+      "base_material": "PLA",
+      "bed_c": [
+        25,
+        60
+      ],
+      "brand": "Polymaker",
+      "cost_per_kg_usd": 35.0,
+      "dry_hours_at_c": [
+        6,
+        55
+      ],
+      "fan_body_pct": 100,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        210,
+        240
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 22.0,
+      "notes": "Toughness-modified high-speed PLA; impact strength near ABS.",
+      "product": "PolySonic PLA Pro",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "Polymaker PolyTerra PLA": {
+      "base_material": "PLA",
+      "bed_c": [
+        45,
+        60
+      ],
+      "brand": "Polymaker",
+      "cost_per_kg_usd": 22.0,
+      "dry_hours_at_c": null,
+      "fan_body_pct": 100,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        190,
+        220
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 15.0,
+      "notes": "Matte PLA; plant-based packaging; great layer hiding.",
+      "product": "PolyTerra PLA",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "ProtoPasta Conductive PLA": {
+      "base_material": "PLA",
+      "bed_c": [
+        45,
+        60
+      ],
+      "brand": "ProtoPasta",
+      "cost_per_kg_usd": 80.0,
+      "dry_hours_at_c": null,
+      "fan_body_pct": 100,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        215,
+        230
+      ],
+      "is_composite": true,
+      "max_volumetric_mm3s": 12.0,
+      "notes": "Carbon-black doped; specialty for low-current circuits.",
+      "product": "Conductive PLA",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "ProtoPasta ESD-safe PLA": {
+      "base_material": "PLA",
+      "bed_c": [
+        45,
+        60
+      ],
+      "brand": "ProtoPasta",
+      "cost_per_kg_usd": 90.0,
+      "dry_hours_at_c": null,
+      "fan_body_pct": 100,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        215,
+        230
+      ],
+      "is_composite": true,
+      "max_volumetric_mm3s": 11.0,
+      "notes": "Surface resistivity 10^6\u201310^9 \u03a9; electronics enclosures.",
+      "product": "ESD-Safe PLA",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "ProtoPasta HTPLA": {
+      "base_material": "PLA",
+      "bed_c": [
+        45,
+        60
+      ],
+      "brand": "ProtoPasta",
+      "cost_per_kg_usd": 48.0,
+      "dry_hours_at_c": null,
+      "fan_body_pct": 100,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        195,
+        230
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 12.0,
+      "notes": "Annealable to raise HDT from 55 \u00b0C to ~90 \u00b0C.",
+      "product": "HTPLA",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "ProtoPasta HTPLA-CF": {
+      "base_material": "PLA",
+      "bed_c": [
+        45,
+        60
+      ],
+      "brand": "ProtoPasta",
+      "cost_per_kg_usd": 55.0,
+      "dry_hours_at_c": [
+        4,
+        50
+      ],
+      "fan_body_pct": 100,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        220,
+        235
+      ],
+      "is_composite": true,
+      "max_volumetric_mm3s": 10.0,
+      "notes": "Carbon-fibre HTPLA; annealable to raise HDT; hardened nozzle required.",
+      "product": "HTPLA-CF",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "ProtoPasta Magnetic Iron PLA": {
+      "base_material": "PLA",
+      "bed_c": [
+        45,
+        60
+      ],
+      "brand": "ProtoPasta",
+      "cost_per_kg_usd": 75.0,
+      "dry_hours_at_c": null,
+      "fan_body_pct": 100,
+      "flow_multiplier": 0.95,
+      "food_safe_claim": false,
+      "hotend_c": [
+        215,
+        230
+      ],
+      "is_composite": true,
+      "max_volumetric_mm3s": 11.0,
+      "notes": "Iron-doped; rusts for weathered look; hardened nozzle.",
+      "product": "Magnetic Iron PLA",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "ProtoPasta Stainless Steel PLA": {
+      "base_material": "PLA",
+      "bed_c": [
+        45,
+        60
+      ],
+      "brand": "ProtoPasta",
+      "cost_per_kg_usd": 70.0,
+      "dry_hours_at_c": [
+        4,
+        50
+      ],
+      "fan_body_pct": 80,
+      "flow_multiplier": 1.1,
+      "food_safe_claim": false,
+      "hotend_c": [
+        200,
+        220
+      ],
+      "is_composite": true,
+      "max_volumetric_mm3s": 8.0,
+      "notes": "Stainless-steel-loaded PLA; magnetic; abrasive \u2014 hardened steel nozzle required.",
+      "product": "Stainless Steel PLA",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "Prusament ABS": {
+      "base_material": "ABS",
+      "bed_c": [
+        100,
+        110
+      ],
+      "brand": "Prusament",
+      "cost_per_kg_usd": 32.0,
+      "dry_hours_at_c": [
+        4,
+        65
+      ],
+      "fan_body_pct": 0,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        250,
+        265
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 10.0,
+      "notes": "+/-0.02 mm tolerance; enclosure required; consistent colours.",
+      "product": "ABS",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.6
+    },
+    "Prusament ASA": {
+      "base_material": "ASA",
+      "bed_c": [
+        100,
+        110
+      ],
+      "brand": "Prusament",
+      "cost_per_kg_usd": 35.0,
+      "dry_hours_at_c": [
+        4,
+        80
+      ],
+      "fan_body_pct": 0,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        255,
+        265
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 10.0,
+      "notes": "",
+      "product": "ASA",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.6
+    },
+    "Prusament PC Blend CF": {
+      "base_material": "PC",
+      "bed_c": [
+        100,
+        110
+      ],
+      "brand": "Prusament",
+      "cost_per_kg_usd": 60.0,
+      "dry_hours_at_c": [
+        4,
+        80
+      ],
+      "fan_body_pct": 0,
+      "flow_multiplier": 0.98,
+      "food_safe_claim": false,
+      "hotend_c": [
+        275,
+        285
+      ],
+      "is_composite": true,
+      "max_volumetric_mm3s": 9.0,
+      "notes": "Very high strength; hardened nozzle mandatory.",
+      "product": "PC Blend Carbon Fiber",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "Prusament PETG": {
+      "base_material": "PETG",
+      "bed_c": [
+        80,
+        90
+      ],
+      "brand": "Prusament",
+      "cost_per_kg_usd": 32.0,
+      "dry_hours_at_c": [
+        4,
+        65
+      ],
+      "fan_body_pct": 40,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        230,
+        250
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 11.0,
+      "notes": "",
+      "product": "PETG",
+      "retract_bowden_mm": 5.0,
+      "retract_direct_mm": 1.5
+    },
+    "Prusament PETG-CF": {
+      "base_material": "PETG",
+      "bed_c": [
+        85,
+        95
+      ],
+      "brand": "Prusament",
+      "cost_per_kg_usd": 45.0,
+      "dry_hours_at_c": [
+        8,
+        70
+      ],
+      "fan_body_pct": 30,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        245,
+        265
+      ],
+      "is_composite": true,
+      "max_volumetric_mm3s": 10.0,
+      "notes": "Carbon-fibre PETG; rigid functional parts; hardened nozzle required.",
+      "product": "PETG Carbon Fiber",
+      "retract_bowden_mm": 5.0,
+      "retract_direct_mm": 1.5
+    },
+    "Prusament PLA": {
+      "base_material": "PLA",
+      "bed_c": [
+        55,
+        60
+      ],
+      "brand": "Prusament",
+      "cost_per_kg_usd": 30.0,
+      "dry_hours_at_c": null,
+      "fan_body_pct": 100,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        215,
+        225
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 15.0,
+      "notes": "Tight \u00b10.02 mm tolerance; consistent colours.",
+      "product": "PLA",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "Prusament PVB": {
+      "base_material": "PLA",
+      "bed_c": [
+        65,
+        85
+      ],
+      "brand": "Prusament",
+      "cost_per_kg_usd": 35.0,
+      "dry_hours_at_c": null,
+      "fan_body_pct": 100,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        205,
+        225
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 12.0,
+      "notes": "IPA-smoothable for glassy finish; PLA-class print profile; satin or smooth PEI bed recommended.",
+      "product": "PVB",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "Push Plastic HIPS": {
+      "base_material": "HIPS",
+      "bed_c": [
+        100,
+        110
+      ],
+      "brand": "Push Plastic",
+      "cost_per_kg_usd": 28.0,
+      "dry_hours_at_c": [
+        4,
+        65
+      ],
+      "fan_body_pct": 20,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        220,
+        240
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 8.0,
+      "notes": "US-made HIPS; limonene-soluble support for ABS dual-extrusion.",
+      "product": "HIPS",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "Push Plastic PETG": {
+      "base_material": "PETG",
+      "bed_c": [
+        70,
+        80
+      ],
+      "brand": "Push Plastic",
+      "cost_per_kg_usd": 24.0,
+      "dry_hours_at_c": [
+        8,
+        65
+      ],
+      "fan_body_pct": 40,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        230,
+        250
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 11.0,
+      "notes": "US-made (Arkansas); Push Plastic broad colour range.",
+      "product": "PETG",
+      "retract_bowden_mm": 5.0,
+      "retract_direct_mm": 1.5
+    },
+    "QIDI PAHT-CF": {
+      "base_material": "PA",
+      "bed_c": [
+        80,
+        100
+      ],
+      "brand": "QIDI Tech",
+      "cost_per_kg_usd": 80.0,
+      "dry_hours_at_c": [
+        8,
+        80
+      ],
+      "fan_body_pct": 0,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        280,
+        310
+      ],
+      "is_composite": true,
+      "max_volumetric_mm3s": 10.0,
+      "notes": "Carbon-fibre high-temp nylon; enclosed chamber + hardened nozzle required.",
+      "product": "PAHT-CF",
+      "retract_bowden_mm": 3.0,
+      "retract_direct_mm": 1.0
+    },
+    "QIDI PETG-CF": {
+      "base_material": "PETG",
+      "bed_c": [
+        70,
+        90
+      ],
+      "brand": "QIDI Tech",
+      "cost_per_kg_usd": 50.0,
+      "dry_hours_at_c": [
+        8,
+        70
+      ],
+      "fan_body_pct": 30,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        240,
+        270
+      ],
+      "is_composite": true,
+      "max_volumetric_mm3s": 10.0,
+      "notes": "Carbon-fibre PETG; rigid functional parts; hardened steel nozzle required.",
+      "product": "PETG-CF",
+      "retract_bowden_mm": 5.0,
+      "retract_direct_mm": 1.5
+    },
+    "QIDI PETG-Tough": {
+      "base_material": "PETG",
+      "bed_c": [
+        70,
+        80
+      ],
+      "brand": "QIDI Tech",
+      "cost_per_kg_usd": 28.0,
+      "dry_hours_at_c": [
+        8,
+        65
+      ],
+      "fan_body_pct": 40,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        230,
+        250
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 12.0,
+      "notes": "Toughness-modified PETG; higher impact than standard PETG.",
+      "product": "PETG-Tough",
+      "retract_bowden_mm": 5.0,
+      "retract_direct_mm": 1.5
+    },
+    "QIDI PLA": {
+      "base_material": "PLA",
+      "bed_c": [
+        60,
+        80
+      ],
+      "brand": "QIDI Tech",
+      "cost_per_kg_usd": 25.0,
+      "dry_hours_at_c": null,
+      "fan_body_pct": 100,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        190,
+        230
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 15.0,
+      "notes": "House-brand PLA tuned for X-Plus / X-Max / Plus4 high-speed printing.",
+      "product": "PLA",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "QIDI UltraPA": {
+      "base_material": "PA",
+      "bed_c": [
+        50,
+        100
+      ],
+      "brand": "QIDI Tech",
+      "cost_per_kg_usd": 50.0,
+      "dry_hours_at_c": [
+        8,
+        80
+      ],
+      "fan_body_pct": 0,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        240,
+        260
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 8.0,
+      "notes": "High-temp PPA nylon; low moisture absorption vs standard PA.",
+      "product": "UltraPA (Nylon)",
+      "retract_bowden_mm": 3.0,
+      "retract_direct_mm": 1.0
+    },
+    "SUNLU PLA+": {
+      "base_material": "PLA",
+      "bed_c": [
+        45,
+        60
+      ],
+      "brand": "SUNLU",
+      "cost_per_kg_usd": 16.0,
+      "dry_hours_at_c": null,
+      "fan_body_pct": 100,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        205,
+        225
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 12.0,
+      "notes": "",
+      "product": "PLA+",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "Smartfil PETG": {
+      "base_material": "PETG",
+      "bed_c": [
+        70,
+        85
+      ],
+      "brand": "Smart Materials 3D",
+      "cost_per_kg_usd": 32.0,
+      "dry_hours_at_c": [
+        8,
+        65
+      ],
+      "fan_body_pct": 40,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        210,
+        250
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 11.0,
+      "notes": "Spanish; chemical resistant; transparent option available; ideal at 240C.",
+      "product": "Smartfil PETG",
+      "retract_bowden_mm": 5.0,
+      "retract_direct_mm": 1.5
+    },
+    "Smartfil PLA 3D870": {
+      "base_material": "PLA",
+      "bed_c": [
+        50,
+        60
+      ],
+      "brand": "Smart Materials 3D",
+      "cost_per_kg_usd": 30.0,
+      "dry_hours_at_c": null,
+      "fan_body_pct": 100,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        190,
+        220
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 12.0,
+      "notes": "Spanish; high-heat PLA grade; Tg 65C; HDT 85C after annealing.",
+      "product": "Smartfil PLA 3D870",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "Spectrum ABS GP": {
+      "base_material": "ABS",
+      "bed_c": [
+        95,
+        110
+      ],
+      "brand": "Spectrum Filaments",
+      "cost_per_kg_usd": 28.0,
+      "dry_hours_at_c": [
+        4,
+        65
+      ],
+      "fan_body_pct": 0,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        240,
+        260
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 10.0,
+      "notes": "Polish premium ABS general-purpose; enclosure required.",
+      "product": "ABS GP",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.6
+    },
+    "Spectrum PETG Premium": {
+      "base_material": "PETG",
+      "bed_c": [
+        70,
+        90
+      ],
+      "brand": "Spectrum Filaments",
+      "cost_per_kg_usd": 30.0,
+      "dry_hours_at_c": [
+        8,
+        65
+      ],
+      "fan_body_pct": 40,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": true,
+      "hotend_c": [
+        230,
+        250
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 11.0,
+      "notes": "Polish premium; food-safe pellets and pigments; RAL colour matched; temp resistant 65-85C.",
+      "product": "PETG Premium",
+      "retract_bowden_mm": 5.0,
+      "retract_direct_mm": 1.5
+    },
+    "Spectrum PLA Premium": {
+      "base_material": "PLA",
+      "bed_c": [
+        50,
+        60
+      ],
+      "brand": "Spectrum Filaments",
+      "cost_per_kg_usd": 28.0,
+      "dry_hours_at_c": null,
+      "fan_body_pct": 100,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": true,
+      "hotend_c": [
+        195,
+        220
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 12.0,
+      "notes": "Polish premium PLA; food-safe pellets/pigments; RAL colour matched.",
+      "product": "PLA Premium",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "TVF Filamet Bronze": {
+      "base_material": "PLA",
+      "bed_c": [
+        50,
+        60
+      ],
+      "brand": "The Virtual Foundry",
+      "cost_per_kg_usd": 120.0,
+      "dry_hours_at_c": [
+        4,
+        50
+      ],
+      "fan_body_pct": 80,
+      "flow_multiplier": 1.35,
+      "food_safe_claim": false,
+      "hotend_c": [
+        200,
+        235
+      ],
+      "is_composite": true,
+      "max_volumetric_mm3s": 6.0,
+      "notes": "88-90% bronze; 0.6mm+ hardened steel nozzle required; 135% flow start; sinterable to solid metal.",
+      "product": "Filamet Bronze",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "TVF Filamet Copper": {
+      "base_material": "PLA",
+      "bed_c": [
+        50,
+        60
+      ],
+      "brand": "The Virtual Foundry",
+      "cost_per_kg_usd": 140.0,
+      "dry_hours_at_c": [
+        4,
+        50
+      ],
+      "fan_body_pct": 80,
+      "flow_multiplier": 1.35,
+      "food_safe_claim": false,
+      "hotend_c": [
+        200,
+        235
+      ],
+      "is_composite": true,
+      "max_volumetric_mm3s": 6.0,
+      "notes": "89-90% copper; density 4.5 g/cc; 0.6mm+ hardened steel nozzle required; sinterable.",
+      "product": "Filamet Copper",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "Taulman Bridge Nylon": {
+      "base_material": "PA",
+      "bed_c": [
+        45,
+        65
+      ],
+      "brand": "Taulman",
+      "cost_per_kg_usd": 55.0,
+      "dry_hours_at_c": [
+        12,
+        80
+      ],
+      "fan_body_pct": 0,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        235,
+        250
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 8.0,
+      "notes": "Nylon 645; easier to print than pure 6/6.",
+      "product": "Bridge",
+      "retract_bowden_mm": 3.0,
+      "retract_direct_mm": 1.0
+    },
+    "Taulman Nylon 680": {
+      "base_material": "PA",
+      "bed_c": [
+        45,
+        65
+      ],
+      "brand": "Taulman",
+      "cost_per_kg_usd": 70.0,
+      "dry_hours_at_c": [
+        12,
+        80
+      ],
+      "fan_body_pct": 0,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": true,
+      "hotend_c": [
+        230,
+        245
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 8.0,
+      "notes": "FDA-compliant nylon; low hygroscopic uptake.",
+      "product": "Nylon 680 FDA",
+      "retract_bowden_mm": 3.0,
+      "retract_direct_mm": 1.0
+    },
+    "Taulman Nylon 910": {
+      "base_material": "PA",
+      "bed_c": [
+        45,
+        65
+      ],
+      "brand": "Taulman",
+      "cost_per_kg_usd": 60.0,
+      "dry_hours_at_c": [
+        12,
+        80
+      ],
+      "fan_body_pct": 0,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        250,
+        260
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 8.0,
+      "notes": "Pure nylon alloy; very low moisture absorption among nylons.",
+      "product": "Nylon 910",
+      "retract_bowden_mm": 3.0,
+      "retract_direct_mm": 1.0
+    },
+    "UltiMaker ABS": {
+      "base_material": "ABS",
+      "bed_c": [
+        85,
+        100
+      ],
+      "brand": "UltiMaker",
+      "cost_per_kg_usd": 60.0,
+      "dry_hours_at_c": [
+        4,
+        65
+      ],
+      "fan_body_pct": 0,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        225,
+        245
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 10.0,
+      "notes": "2.85 mm gauge for S-series; enclosure required.",
+      "product": "ABS",
+      "retract_bowden_mm": 4.5,
+      "retract_direct_mm": 0.6
+    },
+    "UltiMaker Nylon": {
+      "base_material": "PA",
+      "bed_c": [
+        60,
+        80
+      ],
+      "brand": "UltiMaker",
+      "cost_per_kg_usd": 80.0,
+      "dry_hours_at_c": [
+        8,
+        70
+      ],
+      "fan_body_pct": 0,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        245,
+        260
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 8.0,
+      "notes": "2.85 mm gauge for S-series; hygroscopic - dry before every print.",
+      "product": "Nylon",
+      "retract_bowden_mm": 3.5,
+      "retract_direct_mm": 1.0
+    },
+    "UltiMaker TPU 95A": {
+      "base_material": "TPU",
+      "bed_c": [
+        50,
+        60
+      ],
+      "brand": "UltiMaker",
+      "cost_per_kg_usd": 80.0,
+      "dry_hours_at_c": [
+        4,
+        60
+      ],
+      "fan_body_pct": 60,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        220,
+        235
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 5.0,
+      "notes": "Vicat softening 115C; 2.85 mm gauge for S-series printers.",
+      "product": "TPU 95A",
+      "retract_bowden_mm": 2.0,
+      "retract_direct_mm": 0.4
+    },
+    "UltiMaker Tough PLA": {
+      "base_material": "PLA",
+      "bed_c": [
+        60,
+        70
+      ],
+      "brand": "UltiMaker",
+      "cost_per_kg_usd": 60.0,
+      "dry_hours_at_c": null,
+      "fan_body_pct": 100,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        195,
+        215
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 12.0,
+      "notes": "Impact strength near ABS; HDT 60C; 2.85 mm gauge for S-series printers.",
+      "product": "Tough PLA",
+      "retract_bowden_mm": 4.5,
+      "retract_direct_mm": 0.8
+    },
+    "Ultrafuse ABS Fusion+": {
+      "base_material": "ABS",
+      "bed_c": [
+        100,
+        110
+      ],
+      "brand": "BASF Ultrafuse",
+      "cost_per_kg_usd": 55.0,
+      "dry_hours_at_c": [
+        4,
+        80
+      ],
+      "fan_body_pct": 0,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        240,
+        260
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 11.0,
+      "notes": "Reduced-warp ABS from BASF engineering division.",
+      "product": "ABS Fusion+",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.6
+    },
+    "Ultrafuse PRO1 PLA": {
+      "base_material": "PLA",
+      "bed_c": [
+        55,
+        65
+      ],
+      "brand": "BASF Ultrafuse",
+      "cost_per_kg_usd": 60.0,
+      "dry_hours_at_c": null,
+      "fan_body_pct": 80,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        220,
+        240
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 20.0,
+      "notes": "High-flow, ABS-like impact strength in PLA.",
+      "product": "PRO1 Tough PLA",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "Zortrax Z-PETG": {
+      "base_material": "PETG",
+      "bed_c": [
+        75,
+        90
+      ],
+      "brand": "Zortrax",
+      "cost_per_kg_usd": 55.0,
+      "dry_hours_at_c": [
+        8,
+        65
+      ],
+      "fan_body_pct": 40,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        230,
+        250
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 11.0,
+      "notes": "Industrial-grade PETG; UV/chemical resistant; tuned for Zortrax printers.",
+      "product": "Z-PETG",
+      "retract_bowden_mm": 5.0,
+      "retract_direct_mm": 1.5
+    },
+    "Zortrax Z-PLA Pro": {
+      "base_material": "PLA",
+      "bed_c": [
+        50,
+        60
+      ],
+      "brand": "Zortrax",
+      "cost_per_kg_usd": 50.0,
+      "dry_hours_at_c": null,
+      "fan_body_pct": 100,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        200,
+        220
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 12.0,
+      "notes": "Eco-friendly PLA; tuned for Zortrax M200/M300 series; dedicated hotend recommended.",
+      "product": "Z-PLA Pro",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "Zortrax Z-ULTRAT Plus": {
+      "base_material": "ABS",
+      "bed_c": [
+        85,
+        105
+      ],
+      "brand": "Zortrax",
+      "cost_per_kg_usd": 60.0,
+      "dry_hours_at_c": [
+        4,
+        65
+      ],
+      "fan_body_pct": 0,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        240,
+        260
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 10.0,
+      "notes": "ABS-like industrial filament; nominal 245C nozzle, 80C chamber.",
+      "product": "Z-ULTRAT Plus",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.6
+    },
+    "add:north PETG": {
+      "base_material": "PETG",
+      "bed_c": [
+        75,
+        85
+      ],
+      "brand": "add:north",
+      "cost_per_kg_usd": 35.0,
+      "dry_hours_at_c": [
+        8,
+        65
+      ],
+      "fan_body_pct": 40,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        240,
+        250
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 11.0,
+      "notes": "Swedish-made; Nordic premium tier; runs hot vs typical PETG.",
+      "product": "PETG",
+      "retract_bowden_mm": 5.0,
+      "retract_direct_mm": 1.5
+    },
+    "eSun ABS+": {
+      "base_material": "ABS",
+      "bed_c": [
+        95,
+        110
+      ],
+      "brand": "eSun",
+      "cost_per_kg_usd": 25.0,
+      "dry_hours_at_c": [
+        4,
+        80
+      ],
+      "fan_body_pct": 0,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        230,
+        250
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 10.0,
+      "notes": "Slightly lower warping than traditional ABS.",
+      "product": "ABS+",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.6
+    },
+    "eSun PETG": {
+      "base_material": "PETG",
+      "bed_c": [
+        80,
+        90
+      ],
+      "brand": "eSun",
+      "cost_per_kg_usd": 20.0,
+      "dry_hours_at_c": [
+        4,
+        65
+      ],
+      "fan_body_pct": 40,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        230,
+        250
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 11.0,
+      "notes": "",
+      "product": "PETG",
+      "retract_bowden_mm": 5.0,
+      "retract_direct_mm": 1.5
+    },
+    "eSun PLA+": {
+      "base_material": "PLA",
+      "bed_c": [
+        45,
+        65
+      ],
+      "brand": "eSun",
+      "cost_per_kg_usd": 23.0,
+      "dry_hours_at_c": null,
+      "fan_body_pct": 100,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        205,
+        225
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 15.0,
+      "notes": "Tougher than plain PLA; slightly higher impact.",
+      "product": "PLA+",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "eSun PVA": {
+      "base_material": "PVA",
+      "bed_c": [
+        45,
+        65
+      ],
+      "brand": "eSun",
+      "cost_per_kg_usd": 65.0,
+      "dry_hours_at_c": [
+        10,
+        50
+      ],
+      "fan_body_pct": 50,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        190,
+        220
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 5.0,
+      "notes": "Water-soluble support; very hygroscopic \u2014 store dry.",
+      "product": "PVA",
+      "retract_bowden_mm": 3.5,
+      "retract_direct_mm": 0.8
+    },
+    "eSun eBVOH": {
+      "base_material": "BVOH",
+      "bed_c": [
+        45,
+        65
+      ],
+      "brand": "eSun",
+      "cost_per_kg_usd": 90.0,
+      "dry_hours_at_c": [
+        12,
+        50
+      ],
+      "fan_body_pct": 50,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        200,
+        220
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 5.0,
+      "notes": "Butenediol Vinyl Alcohol; water-soluble; plays nicely with nylon.",
+      "product": "eBVOH",
+      "retract_bowden_mm": 3.5,
+      "retract_direct_mm": 0.8
+    },
+    "eSun eHIPS": {
+      "base_material": "HIPS",
+      "bed_c": [
+        95,
+        110
+      ],
+      "brand": "eSun",
+      "cost_per_kg_usd": 24.0,
+      "dry_hours_at_c": [
+        4,
+        65
+      ],
+      "fan_body_pct": 20,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        220,
+        240
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 8.0,
+      "notes": "Limonene-soluble support for ABS/ASA dual-extrusion.",
+      "product": "eHIPS",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "eSun ePA-CF": {
+      "base_material": "PA",
+      "bed_c": [
+        80,
+        100
+      ],
+      "brand": "eSun",
+      "cost_per_kg_usd": 55.0,
+      "dry_hours_at_c": [
+        8,
+        80
+      ],
+      "fan_body_pct": 0,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        250,
+        280
+      ],
+      "is_composite": true,
+      "max_volumetric_mm3s": 8.0,
+      "notes": "Carbon-fibre nylon; engineering-grade; hardened nozzle required.",
+      "product": "ePA-CF",
+      "retract_bowden_mm": 3.0,
+      "retract_direct_mm": 1.0
+    },
+    "eSun ePLA-CF": {
+      "base_material": "PLA",
+      "bed_c": [
+        45,
+        60
+      ],
+      "brand": "eSun",
+      "cost_per_kg_usd": 35.0,
+      "dry_hours_at_c": [
+        4,
+        55
+      ],
+      "fan_body_pct": 100,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        210,
+        240
+      ],
+      "is_composite": true,
+      "max_volumetric_mm3s": 10.0,
+      "notes": "Carbon-fibre PLA; rigid; hardened nozzle required.",
+      "product": "ePLA-CF",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "eSun eSilk-PLA": {
+      "base_material": "PLA",
+      "bed_c": [
+        45,
+        60
+      ],
+      "brand": "eSun",
+      "cost_per_kg_usd": 24.0,
+      "dry_hours_at_c": null,
+      "fan_body_pct": 100,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        210,
+        230
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 12.0,
+      "notes": "Silk-finish PLA; smooth lustrous surface.",
+      "product": "eSilk-PLA",
+      "retract_bowden_mm": 4.0,
+      "retract_direct_mm": 0.8
+    },
+    "eSun eTPU-95A": {
+      "base_material": "TPU",
+      "bed_c": [
+        45,
+        60
+      ],
+      "brand": "eSun",
+      "cost_per_kg_usd": 30.0,
+      "dry_hours_at_c": [
+        4,
+        50
+      ],
+      "fan_body_pct": 60,
+      "flow_multiplier": 1.0,
+      "food_safe_claim": false,
+      "hotend_c": [
+        210,
+        230
+      ],
+      "is_composite": false,
+      "max_volumetric_mm3s": 4.0,
+      "notes": "",
+      "product": "eTPU-95A",
+      "retract_bowden_mm": 2.0,
+      "retract_direct_mm": 0.4
+    }
+  },
+  "generated_at_iso": "2026-04-27T06:30:53Z",
+  "min_app_version": "1.3.0",
+  "name": "filaments_db",
+  "schema_version": 1,
+  "signature_b64": "+6fG7nPww4p2woVZBZF/+oUrGSk9JkP9wI0+09QsSuDCMAG91J1ZgsW72zxT8Fr+Qb/DMx+9pZLB2cIDxttPDQ=="
+}
