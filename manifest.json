@@ -1,17 +1,7 @@
 {
-  "generated_at_iso": "2026-04-27T11:34:49Z",
+  "generated_at_iso": "2026-04-27T11:46:54Z",
   "manifest_schema": 1,
   "packs": [
-    {
-      "data_version": 1,
-      "min_app_version": "1.3.0",
-      "name": "filaments_db",
-      "release_notes": "v1 of filaments_db",
-      "schema_version": 1,
-      "sha256": "3a6c8f4d0583886fceeeb4553f38c5bab9a260365d01fb4488a77019d8f11fde",
-      "size_bytes": 77305,
-      "url": "https://pbdproducts.github.io/PrintWise3D-DBPacks/packs/filaments_db-v1.json"
-    },
     {
       "data_version": 1,
       "min_app_version": "1.3.0",
@@ -31,7 +21,17 @@
       "sha256": "89ccd2a6d86523b3bfca961f041e77d1ba6eeef371659a80ad89c75e2e1ee8cc",
       "size_bytes": 11180,
       "url": "https://pbdproducts.github.io/PrintWise3D-DBPacks/packs/plates_db-v2.json"
+    },
+    {
+      "data_version": 2,
+      "min_app_version": "1.3.0",
+      "name": "filaments_db",
+      "release_notes": "v2 of filaments_db",
+      "schema_version": 1,
+      "sha256": "a7b4fb0cb7512a22c6cf0651a891fd0dcac4775083293593e37c3c2a41c974d5",
+      "size_bytes": 95860,
+      "url": "https://pbdproducts.github.io/PrintWise3D-DBPacks/packs/filaments_db-v2.json"
     }
   ],
-  "signature_b64": "CMiiB9mpODGlt2Huh3Uf/H+/srVazT18cnN/sJemdcBExDzFlHBsPv/VhX0LJ+z+jKZtGGnjIR392lQEQ0VMBw=="
+  "signature_b64": "4AzYTEYRKzKHxj0m6ue/bisw0XNoPGkfB2VBtOeddQwmVMzNpSZiWCGFeLEufjHyUYJEGDx4wH7G0Fv+NdxmBg=="
 }
