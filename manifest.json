@@ -1,17 +1,7 @@
 {
-  "generated_at_iso": "2026-04-27T06:30:53Z",
+  "generated_at_iso": "2026-04-27T11:34:49Z",
   "manifest_schema": 1,
   "packs": [
-    {
-      "data_version": 1,
-      "min_app_version": "1.3.0",
-      "name": "plates_db",
-      "release_notes": "v1 of plates_db",
-      "schema_version": 1,
-      "sha256": "2fb7955463e21e59ce42661128e2dabb20217ff6321be08e5f331aa07a1c7f62",
-      "size_bytes": 10791,
-      "url": "https://pbdproducts.github.io/PrintWise3D-DBPacks/packs/plates_db-v1.json"
-    },
     {
       "data_version": 1,
       "min_app_version": "1.3.0",
@@ -31,7 +21,17 @@
       "sha256": "ead66b1fea9ac920fc72f232f47628c19c4acb098ef7f53965afcf06aa3c1e7e",
       "size_bytes": 53578,
       "url": "https://pbdproducts.github.io/PrintWise3D-DBPacks/packs/printers_db-v1.json"
+    },
+    {
+      "data_version": 2,
+      "min_app_version": "1.3.0",
+      "name": "plates_db",
+      "release_notes": "v2 of plates_db",
+      "schema_version": 1,
+      "sha256": "89ccd2a6d86523b3bfca961f041e77d1ba6eeef371659a80ad89c75e2e1ee8cc",
+      "size_bytes": 11180,
+      "url": "https://pbdproducts.github.io/PrintWise3D-DBPacks/packs/plates_db-v2.json"
     }
   ],
-  "signature_b64": "cP2q8SEzSlkHBkKt2SbIgDqQqYS8zrDgze15n43qdi96v2rZ7DMwpAZ8R//JhOJlu/amL+xg23BBxjoXezaICA=="
+  "signature_b64": "CMiiB9mpODGlt2Huh3Uf/H+/srVazT18cnN/sJemdcBExDzFlHBsPv/VhX0LJ+z+jKZtGGnjIR392lQEQ0VMBw=="
 }
